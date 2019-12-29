@@ -16,4 +16,4 @@ redirect_from:
 * I am interested in combining machine learning with traditional research on business and society. My research interest lies in **Economics for Information Systems** and **Natural Language Processing**.
 
 # Recent News
-* November 10, 2018. Two papers accepted to AAAI 2019.
+* November 10, 2018. Two papers accepted to AAAI 2020.
