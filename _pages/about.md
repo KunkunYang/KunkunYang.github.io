@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/KunkunYang/KunkunYang.github.io/tree/master/files/zekunyang.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D. candidate in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/) at [City University of Hong Kong](https://www.cityu.edu.hk/). My supervisor is [Prof. Juan Feng](https://www.cb.cityu.edu.hk/staff/juafeng/).
