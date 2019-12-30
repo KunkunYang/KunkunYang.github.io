@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Causal Inference Method for Reducing Gender Bias in Word Embedding Relations</b><br>
+<b>\color{#FF3030}{Causal Inference Method for Reducing Gender Bias in Word Embedding Relations}</b><br>
 <b>Zekun Yang</b>, Juan Feng.
 <i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
 [[Paper]](https://arxiv.org/abs/1911.10787) [[Code]](https://github.com/KunkunYang/GenderBiasHSR)
