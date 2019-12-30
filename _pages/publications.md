@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>A Causal Inference Method for Reducing Gender Bias in Word Embedding Relations, Thirty-Fourth AAAI Conference on Artificial Intelligence</b><br>
+<b>Zekun Yang</b>, Juan Feng
+<i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
+[[Paper]]](https://arxiv.org/abs/1911.10787) [[Code]](https://github.com/KunkunYang/GenderBiasHSR)
 
-{% include base_path %}
+<b>Causally Denoise Word Embeddings Using Half-Sibling Regression</b><br>
+<b>Zekun Yang</b>\*, Tianlin Liu\*
+<i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
+[[Paper]]](https://arxiv.org/abs/1911.10524) [[Code]](https://github.com/KunkunYang/denoiseHSR-AAAI)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+[\* denotes equal contribution]
+
