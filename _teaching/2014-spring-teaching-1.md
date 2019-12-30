@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "Hong Kong SAR, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching tutorial sessions and weekly homework grading.
 
 Heading 1
 ======
