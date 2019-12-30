@@ -8,8 +8,6 @@ date: 2019-01-01
 location: "Hong Kong SAR, China"
 ---
 
-Teaching tutorial sessions and weekly homework grading.
-
 Heading 1
 ======
 
