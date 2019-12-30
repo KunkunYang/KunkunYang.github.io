@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zekun Yang"
 title_separator          : "-"
-name                     : &name "Zekun Yang 杨泽坤"
+name                     : &name "Zekun Yang"
 description              : &description "Ph.D. Candidate at City University of Hong Kong"
 url                      : https://kunkunyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
