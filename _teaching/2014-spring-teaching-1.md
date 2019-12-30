@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant of IS5740 Management Support and Business Intelligence"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Postgraduate course"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "Department of Information Systems, City University of Hong Kong"
+date: 2019-01-01
+location: "Hong Kong SAR, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
