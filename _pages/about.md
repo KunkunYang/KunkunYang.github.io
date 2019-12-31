@@ -18,4 +18,4 @@ redirect_from:
     * Application: User-Generated Content, Electronic Governance
 
 # Recent News
-* November, 2019. Two papers accepted to AAAI 2020.
+* November, 2019. Two papers accepted by AAAI 2020.
