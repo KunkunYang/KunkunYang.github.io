@@ -8,12 +8,12 @@ author_profile: true
 * <b>Causal Inference Method for Reducing Gender Bias in Word Embedding Relations</b><br>
 Zekun Yang, Juan Feng.
 <i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
-[[Paper]](https://arxiv.org/abs/1911.10787) [[Code]](https://github.com/KunkunYang/GenderBiasHSR)
+[[Paper]](https://arxiv.org/abs/1911.10787) [[Poster]](http://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf) [[Code]](https://github.com/KunkunYang/GenderBiasHSR)
 
 * <b>Causally Denoise Word Embeddings Using Half-Sibling Regression</b><br>
 Zekun Yang\*, Tianlin Liu\*.
 <i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
-[[Paper]](https://arxiv.org/abs/1911.10524) [[Code]](https://github.com/KunkunYang/denoiseHSR-AAAI)
+[[Paper]](https://arxiv.org/abs/1911.10524) [[Poster]](http://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Code]](https://github.com/KunkunYang/denoiseHSR-AAAI)
 
 * <b>Non-negative Matrix Factorization for Overlapping Clustering of Customer Inquiry and Review Data</b><br>
 Zekun Yang.
