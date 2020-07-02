@@ -18,5 +18,6 @@ redirect_from:
     * Application: User-Generated Content, Electronic Governance
 
 # Recent News
+* July, 2020.  I attend the Frontier of Space Econometrics Summer School, Peking University.
 * February, 2020. Due to the outbreak of coronavirus and travel restrictions of the US Government, I am not able to attend AAAI 2020 in person. Here are my posters: [[Paper_3106]](http://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Paper_3321]](http://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf)
 * November, 2019. Two papers accepted by AAAI 2020.
