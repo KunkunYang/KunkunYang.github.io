@@ -4,10 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+* <b>Instructor of IS5740 Management Support and Business Intelligence</b><br>
+Sep. 2020 - Dec. 2020, *Department of Information Systems, City University of Hong Kong*
+    * Teaching lecture sessions and tutorial sessions, grading homework weekly.
+ 
 * <b>Instructor of IS5740 Management Support and Business Intelligence</b><br>
 Sep. 2019 - Dec. 2019, *Department of Information Systems, City University of Hong Kong*
-    * Teaching tutorial sessions and weekly homework grading.
+    * Teaching tutorial sessions and grading homework weekly.
     
 * <b>Teaching Assistant of IS2502 Social Media and Social Networks</b><br>
 Jan. 2019 - Jun. 2019, *Department of Information Systems, City University of Hong Kong*
