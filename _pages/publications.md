@@ -20,9 +20,6 @@ Zekun Yang.
 <i>Proceedings of 2018 10th International Conference on Machine Learning and Computing.</i> <b>ICMLC 2018</b>.
 [[Code]](https://github.com/KunkunYang/master_project_code)
 
-* <b>Influences of China’s Resource Tax Reform on Local Economic Development.</b><br>
-Zekun Yang, Fan Lin.
-<i>Proceedings of 2015 International Conference on Public Administration.</i> <b>ICPA 11th</b>.
 
 [\* denotes equal contribution]
 
