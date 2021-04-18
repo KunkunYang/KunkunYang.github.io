@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Click to view and download my CV](http://zekunyang.com/files/Zekun_Yang_CV.pdf)
+[Click to view and download my CV (need to be updated)](http://zekunyang.com/files/Zekun_Yang_CV.pdf)
