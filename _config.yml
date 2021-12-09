@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zekun Yang"
 title_separator          : "-"
 name                     : &name "Zekun Yang"
-description              : &description "Ph.D. Candidate at City University of Hong Kong"
+description              : &description "Assistant Professor in the School of Information Resource Management at Renmin University of China."
 url                      : https://kunkunyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KunkunYang/KunkunYang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zekun Yang 杨泽坤"
   avatar           : "https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/zekunyang.jpg?raw=true"
-  bio              : "Ph.D. Candidate at City University of Hong Kong"
-  location         : "Kowloon, Hong Kong"
+  bio              : "Assistant Professor in the School of Information Resource Management at Renmin University of China"
+  location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=P5F8lYoAAAAJ&hl=en"
-  email            : "zekunyang3-c@my.cityu.edu.hk"
+  email            : 
   researchgate     : 
   uri              :
   bitbucket        :
