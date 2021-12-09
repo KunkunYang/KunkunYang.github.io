@@ -10,15 +10,12 @@ redirect_from:
   <img src="https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/zekunyang.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Ph.D. candidate in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/) at [City University of Hong Kong](https://www.cityu.edu.hk/). My supervisors are [Prof. Juan Feng](http://www.sem.tsinghua.edu.cn/en/fengjuan) and [Dr. David Jingjun Xu](https://www.cb.cityu.edu.hk/staff/davidxu/).
-* I hold a BSc in Applied and Computational Mathematics from [Jacobs University Bremen, Germany](https://www.jacobs-university.de/) and an MSc in Machine Learning (with distinction) from [University College London, UK](https://www.ucl.ac.uk/). My Bachelor thesis supervisor is [Prof. Marcel Oliver](http://math.jacobs-university.de/oliver/), and my Master thesis supervisors are [Prof. David Barber](http://www0.cs.ucl.ac.uk/people/D.Barber.html) and Dr. Edward Challis.
+* I am an assistant professor in the [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Digital Humanities, Natural Language Processing, and Information Retrieval.
+* I hold a Ph.D. in Information Systems from the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/) at [City University of Hong Kong](https://www.cityu.edu.hk/). My Ph.D. supervisors are [Prof. Juan Feng](http://www.sem.tsinghua.edu.cn/en/fengjuan) and [Dr. David Jingjun Xu](https://www.cb.cityu.edu.hk/staff/davidxu/). I also hold an MSc in Machine Learning (with distinction) from [University College London, UK](https://www.ucl.ac.uk/) and a BSc in Applied and Computational Mathematics from [Jacobs University Bremen, Germany](https://www.jacobs-university.de/). My Master thesis supervisors are [Prof. David Barber](http://www0.cs.ucl.ac.uk/people/D.Barber.html) and Dr. Edward Challis, and my Bachelor thesis supervisor is [Prof. Marcel Oliver](http://math.jacobs-university.de/oliver/). 
 
-* Research Interest:
-    * Methodology: Machine Learning, Natural Language Processing, Econometrics
-    * Application: User-Generated Content, Electronic Governance, Digital Humanities
 
 # Recent News
+* December, 2021. I joined the School of Information Resource Management, Renmin University of China.
 * March, 2021. I attended iConference 2021.
 * July, 2020. I attended the Frontier of Space Econometrics Summer School, Peking University.
 * February, 2020. Due to the outbreak of coronavirus and travel restrictions of the US Government, I am not able to attend AAAI 2020 in person. Here are my posters: [[Paper_3106]](http://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Paper_3321]](http://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf).
-* November, 2019. Two papers accepted by AAAI 2020.
