@@ -11,7 +11,7 @@ redirect_from:
 </p>
 
 * I am an Assistant Professor in the [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Digital Humanities, Natural Language Processing, and Information Retrieval.
-* I hold a Ph.D. in Information Systems from the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/) at [City University of Hong Kong](https://www.cityu.edu.hk/). My Ph.D. supervisors are [Prof. Juan Feng](http://www.sem.tsinghua.edu.cn/en/fengjuan) and [Dr. David Jingjun Xu](https://www.cb.cityu.edu.hk/staff/davidxu/). I also hold an MSc in Machine Learning (with distinction) from [University College London, UK](https://www.ucl.ac.uk/) and a BSc in Applied and Computational Mathematics from [Jacobs University Bremen, Germany](https://www.jacobs-university.de/). My Master thesis supervisors are [Prof. David Barber](http://www0.cs.ucl.ac.uk/people/D.Barber.html) and Dr. Edward Challis, and my Bachelor thesis supervisor is [Prof. Marcel Oliver](http://math.jacobs-university.de/oliver/). 
+* I hold a Ph.D. in Information Systems from the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/) at [City University of Hong Kong](https://www.cityu.edu.hk/). My Ph.D. supervisors are [Prof. Juan Feng](http://www.sem.tsinghua.edu.cn/en/fengjuan) and [Dr. David Jingjun Xu](https://www.cb.cityu.edu.hk/staff/davidxu/). I also hold an MSc in Machine Learning (with distinction) from [University College London, UK](https://www.ucl.ac.uk/) and a BSc in Applied and Computational Mathematics from [Jacobs University Bremen, Germany](https://www.jacobs-university.de/).
 
 
 # Recent News
