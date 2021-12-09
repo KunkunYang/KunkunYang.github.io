@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>Predicting multiple types of traffic accident severity with explanations: A multi-task deep learning framework</b><br>
+Zekun Yang, Wenping Zhang, and Juan Feng.
+<i>Safety Science, 2022, 146: 105522.</i>.
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0925753521003659?casa_token=SjBxd8JohwYAAAAA:Q92pn1SISV0-mhvjnBAyVeqn-xsKFxUDt5ZnpVQrkaa4sE4JRkntitiQW_zo2kK-a462T_fbrg)
+
+
 
 * <b>Causal Inference Method for Reducing Gender Bias in Word Embedding Relations</b><br>
 Zekun Yang, Juan Feng.
