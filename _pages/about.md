@@ -10,7 +10,7 @@ redirect_from:
   <img src="https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/zekunyang.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am an Assistant Professor in the [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Digital Humanities, Natural Language Processing, and Information Retrieval.
+* I am an Assistant Professor in the [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Digital Humanities, Natural Language Processing, and Information Retrieval. [This is my university personal homepage in Chinese.](https://irm.ruc.edu.cn/teachermore.php?cid=8&id=114)
 * I hold a Ph.D. in Information Systems from the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/) at [City University of Hong Kong](https://www.cityu.edu.hk/). My Ph.D. supervisors are [Prof. Juan Feng](http://www.sem.tsinghua.edu.cn/en/fengjuan) and [Dr. David Jingjun Xu](https://www.cb.cityu.edu.hk/staff/davidxu/). I also hold an MSc in Machine Learning (with distinction) from [University College London, UK](https://www.ucl.ac.uk/) and a BSc in Applied and Computational Mathematics from [Jacobs University Bremen, Germany](https://www.jacobs-university.de/).
 
 
