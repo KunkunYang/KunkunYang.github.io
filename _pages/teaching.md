@@ -4,13 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-* <b>Instructor of 2102100120149 Social Network Analysis</b><br>
+* <b>Instructor of Social Network Analysis</b><br>
 Feb. 2022 - Jul. 2022, *School of Information Resource Management, Renmin University of China*
  
-* <b>Instructor of 2102100120171 Guides to Academic Research</b><br>
+* <b>Instructor of Guides to Academic Research</b><br>
 Feb. 2022 - Jul. 2022, *School of Information Resource Management, Renmin University of China*
 
-* <b>Lead Teaching Assistant of 21020490 Introduction to Digital Humanities</b><br>
+* <b>Lead Teaching Assistant of Introduction to Digital Humanities</b><br>
 Feb. 2022 - Jul. 2022, *School of Information Resource Management, Renmin University of China*
     
 * <b>Instructor of IS5740 Management Support and Business Intelligence</b><br>
