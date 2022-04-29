@@ -13,7 +13,7 @@ Zekun Yang, Zhijie Lin.
 
 * <b>Predicting multiple types of traffic accident severity with explanations: A multi-task deep learning framework</b><br>
 Zekun Yang, Wenping Zhang, Juan Feng.
-<b>Safety Science</b><i>, 2022, 146: 105522</i>.
+<b>Safety Science</b><i>, 2022, 146, 105522</i>.
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925753521003659?casa_token=SjBxd8JohwYAAAAA:Q92pn1SISV0-mhvjnBAyVeqn-xsKFxUDt5ZnpVQrkaa4sE4JRkntitiQW_zo2kK-a462T_fbrg)
 
 
