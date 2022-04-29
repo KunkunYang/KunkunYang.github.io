@@ -4,6 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* <b>Lead Teaching Assistant of 21020490 Introduction to Digital Humanities</b><br>
+Feb. 2022 - Jul. 2022, *School of Information Resource Management, Renmin University of China*
+    * Designing and organizing the course, grading homework, answering students' questions.
+    
 * <b>Instructor of IS5740 Management Support and Business Intelligence</b><br>
 Sep. 2020 - Dec. 2020, *Department of Information Systems, City University of Hong Kong*
     * Teaching lecture/tutorial sessions and grading homework weekly.
