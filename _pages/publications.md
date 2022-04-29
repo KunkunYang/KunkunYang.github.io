@@ -7,7 +7,7 @@ author_profile: true
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
 Zekun Yang, Zhijie Lin.
-<b>Internet Research</b><i>, 2022, forthcoming</i>.
+<b>Internet Research</b><i>, 2022, 32(02), 518-535</i>.
 [[Paper]](https://www.emerald.com/insight/content/doi/10.1108/INTR-08-2020-0471/full/html?casa_token=fKeHNSGMkewAAAAA:47ZJGZN0GZuvf2FMK5uPZNl05hmcSHo6Nn4CWqQdZbc5C5KxiE2z69dVBi7EIfucadpwIoLnkSBWzzKoSeLYC0Q88jQN45NXcPoPkQL3rm5fkSMDnFlb)
 
 
