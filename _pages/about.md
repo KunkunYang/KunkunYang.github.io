@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* July, 2022. I serve as the Event Co-Chair of the Chinese Track of iConference 2023. We welcome your participation: https://ischools.org/Chinese-Research-Papers
 * December, 2021. I joined the School of Information Resource Management, Renmin University of China.
 * March, 2021. I attended iConference 2021.
 * July, 2020. I attended the Frontier of Space Econometrics Summer School, Peking University.
