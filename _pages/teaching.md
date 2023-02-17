@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 * Instructor of Graduate Course <b>Natural Language Processing and Application</b><br>
-
 Spring Semester (Feb. - Jul.), 2022 - Now, *School of Information Resource Management, Renmin University of China*
 
 * Instructor of Graduate Course <b>Social Network Analysis and Digital Humanities</b><br>
@@ -30,10 +29,10 @@ Fall & Spring Semester, 2022 - Now, *School of Information Resource Management, 
 Fall Semester (Sep. - Dec.), 2022, *School of Information Resource Management, Renmin University of China*
 
 * Instructor of Graduate Course <b>IS5740 Management Support and Business Intelligence</b><br>
-Sep. - Dec., 2019 - 2020, *Department of Information Systems, City University of Hong Kong*
+Fall Semester (Sep. - Dec.), 2019 - 2020, *Department of Information Systems, City University of Hong Kong*
 
 * Teaching Assistant of Undergraduate Course <b>IS2502 Social Media and Social Networks</b><br>
-Jan. 2019 - Jun. 2019, *Department of Information Systems, City University of Hong Kong*
+Spring Semester (Jan. - Jun.), 2019, *Department of Information Systems, City University of Hong Kong*
 
 * Teaching Assistant of Undergraduate Course <b>Probability and Random Signal Processing</b><br>
 Oct. 2015 - Jan. 2016, *Jacobs University Bremen*
