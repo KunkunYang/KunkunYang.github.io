@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>Let data sing the Uyghur Twelve Muqam: A text mining on Lyrics</b><br>
+Limai Kai, Zekun Yang\#, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Jin Yan, Yanfen Huang, Kongwen Guan.
+<b>Digital Humanities 2023 (DH 2023)</b><i>, accepted</i>.
+
+* <b>You respect, I respond: The role of citizen courtesy in government responsiveness to citizen-initiated contacts</b><br>
+Zekun Yang, Liang Ma.
+<b>Public Management Research Conference 2023 (PMRC 2023)</b><i>, oral presentation</i>.
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
 Zekun Yang, Zhijie Lin.
@@ -33,6 +40,6 @@ Zekun Yang.
 <i>Proceedings of 2018 10th International Conference on Machine Learning and Computing.</i> <b>ICMLC 2018</b>.
 [[Code]](https://github.com/KunkunYang/master_project_code)
 
-
+[\# denotes corresponding author]
 [\* denotes equal contribution]
 
