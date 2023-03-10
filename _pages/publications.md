@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * <b>Let data sing the Uyghur Twelve Muqam: A text mining on Lyrics</b><br>
-Limai Kai, Zekun Yang\#, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Jin Yan, Yanfen Huang, Kongwen Guan.
+Limai Kai, Zekun Yang\*, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Jin Yan, Yanfen Huang, Kongwen Guan.
 <b>Digital Humanities 2023 (DH 2023)</b><i>, accepted</i>.
 
 * <b>You respect, I respond: The role of citizen courtesy in government responsiveness to citizen-initiated contacts</b><br>
@@ -31,7 +31,7 @@ Zekun Yang, Juan Feng.
 [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6486/6342) [[Poster]](http://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf) [[Code]](https://github.com/KunkunYang/GenderBiasHSR)
 
 * <b>Causally Denoise Word Embeddings Using Half-Sibling Regression</b><br>
-Zekun Yang\*, Tianlin Liu\*.
+Zekun Yang^#, Tianlin Liu^#.
 <i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
 [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6485/6341) [[Poster]](http://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Code]](https://github.com/KunkunYang/denoiseHSR-AAAI)
 
@@ -40,6 +40,6 @@ Zekun Yang.
 <i>Proceedings of 2018 10th International Conference on Machine Learning and Computing.</i> <b>ICMLC 2018</b>.
 [[Code]](https://github.com/KunkunYang/master_project_code)
 
-[\# denotes corresponding author]
-[\* denotes equal contribution]
+[\* denotes corresponding author]
+[^# denotes equal contribution]
 
