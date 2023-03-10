@@ -6,11 +6,11 @@ author_profile: true
 ---
 * <b>Let data sing the Uyghur Twelve Muqam: A text mining on lyrics</b><br>
 Limai Kai, Zekun Yang\*, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Jin Yan, Yanfen Huang, Kongwen Guan.
-<b>Digital Humanities 2023 (DH 2023)</b><i>, accepted</i>.
+<i>Digital Humanities 2023.</i> <b>DH 2023</b>.
 
 * <b>You respect, I respond: The role of citizen courtesy in government responsiveness to citizen-initiated contacts</b><br>
 Zekun Yang, Liang Ma.
-<b>Public Management Research Conference 2023 (PMRC 2023)</b><i>, oral presentation</i>.
+<i>Public Management Research Conference 2023</i> <b>PMRC 2023</b>.
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
 Zekun Yang, Zhijie Lin.
@@ -23,21 +23,19 @@ Zekun Yang, Wenping Zhang, Juan Feng.
 <b>Safety Science</b><i>, 2022, 146, 105522</i>.
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925753521003659?casa_token=SjBxd8JohwYAAAAA:Q92pn1SISV0-mhvjnBAyVeqn-xsKFxUDt5ZnpVQrkaa4sE4JRkntitiQW_zo2kK-a462T_fbrg)
 
-
-
 * <b>Causal Inference Method for Reducing Gender Bias in Word Embedding Relations</b><br>
 Zekun Yang, Juan Feng.
-<i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
+<i>Proceedings of the AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b><i>, 34(05), 9434-9441</i>.
 [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6486/6342) [[Poster]](http://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf) [[Code]](https://github.com/KunkunYang/GenderBiasHSR)
 
 * <b>Causally Denoise Word Embeddings Using Half-Sibling Regression</b><br>
 Zekun Yang<sup>#</sup>, Tianlin Liu<sup>#</sup>.
-<i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
+<i>Proceedings of the AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b><i>, 34(05), 9426-9433</i>.
 [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6485/6341) [[Poster]](http://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Code]](https://github.com/KunkunYang/denoiseHSR-AAAI)
 
 * <b>Non-negative Matrix Factorization for Overlapping Clustering of Customer Inquiry and Review Data</b><br>
 Zekun Yang.
-<i>Proceedings of 2018 10th International Conference on Machine Learning and Computing.</i> <b>ICMLC 2018</b>.
+<i>Proceedings of 2018 10th International Conference on Machine Learning and Computing.</i> <b>ICMLC 2018</b><i>, 96-101</i>.
 [[Code]](https://github.com/KunkunYang/master_project_code)
 
 [\* denotes corresponding author]
