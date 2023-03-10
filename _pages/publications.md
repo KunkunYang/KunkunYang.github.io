@@ -31,7 +31,7 @@ Zekun Yang, Juan Feng.
 [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6486/6342) [[Poster]](http://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf) [[Code]](https://github.com/KunkunYang/GenderBiasHSR)
 
 * <b>Causally Denoise Word Embeddings Using Half-Sibling Regression</b><br>
-Zekun Yang^#, Tianlin Liu^#.
+Zekun Yang<sup>#</sup>, Tianlin Liu<sup>#</sup>.
 <i>Thirty-Fourth AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2020</b>.
 [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6485/6341) [[Poster]](http://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Code]](https://github.com/KunkunYang/denoiseHSR-AAAI)
 
@@ -41,5 +41,5 @@ Zekun Yang.
 [[Code]](https://github.com/KunkunYang/master_project_code)
 
 [\* denotes corresponding author]
-[^# denotes equal contribution]
+[<sup>#</sup> denotes equal contribution]
 
