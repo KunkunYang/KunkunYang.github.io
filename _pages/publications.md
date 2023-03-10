@@ -10,7 +10,7 @@ Limai Kai, Zekun Yang\*, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Ji
 
 * <b>You respect, I respond: The role of citizen courtesy in government responsiveness to citizen-initiated contacts</b><br>
 Zekun Yang, Liang Ma.
-<i>Public Management Research Conference 2023</i> <b>PMRC 2023</b>.
+<i>Public Management Research Conference 2023.</i> <b>PMRC 2023</b>.
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
 Zekun Yang, Zhijie Lin.
