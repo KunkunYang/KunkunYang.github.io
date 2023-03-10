@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* <b>Let data sing the Uyghur Twelve Muqam: A text mining on Lyrics</b><br>
+* <b>Let data sing the Uyghur Twelve Muqam: A text mining on lyrics</b><br>
 Limai Kai, Zekun Yang\*, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Jin Yan, Yanfen Huang, Kongwen Guan.
 <b>Digital Humanities 2023 (DH 2023)</b><i>, accepted</i>.
 
