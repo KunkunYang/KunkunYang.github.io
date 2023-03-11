@@ -19,7 +19,7 @@ redirect_from:
 # Recent News
 * March, 2023. I served as the Event Co-Chair of the Chinese Track of iConference 2023.
 * March, 2023. One paper accepted by Digital Humanities 2023 (DH 2023) as poster.
-* February, 2023. One abstract accepted by Public Management Research Conference 2023 (PMRC 2023) for oral presentation.
+* February, 2023. One paper accepted by Public Management Research Conference 2023 (PMRC 2023) for oral presentation.
 * November, 2022. I served on the organizing team of the 2022 China Digital Humanities Annual Conference (CDH 2022).
 * December, 2021. I joined the School of Information Resource Management, Renmin University of China.
 * March, 2021. I attended iConference 2021.
