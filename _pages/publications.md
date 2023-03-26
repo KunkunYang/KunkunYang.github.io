@@ -13,7 +13,7 @@ Zekun Yang, Liang Ma.
 <i>Public Management Research Conference 2023.</i> <b>PMRC 2023</b>.
 
 * <b>"Panorama and Prospect: Digital Humanities and National Strategy for Digitalization of Culture" --- Overview of the 2022 China Digital Humanities Conference</b><br>
-Zekun Yang, Limai Kai, Shaojian Li.
+Zekun Yang, Shaojian Li, Limai Kai.
 <b>Digital Humanities Research</b> (Chinese).
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
