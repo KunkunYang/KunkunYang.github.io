@@ -12,9 +12,9 @@ Limai Kai, Zekun Yang\*, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Ji
 Zekun Yang, Liang Ma.
 <i>Public Management Research Conference 2023.</i> <b>PMRC 2023</b>.
 
-* <b>"Panorama and Prospect: Digital Humanities and National Strategy for Digitalization of Culture" --- Overview of the 2022 China Digital Humanities Conference</b><br>
-Zekun Yang, Shaojian Li, Limai Kai.
-<b>Digital Humanities Research</b> (Chinese).
+* <b>“全景与远景：数字人文与国家文化数字化战略”——2022年中国数字人文年会综述</b><br>
+杨泽坤, 李少建, 凯丽麦.
+<b>数字人文研究</b>.
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
 Zekun Yang, Zhijie Lin.
