@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "RUC Photo"
+title: "Photo"
 permalink: /photo/
 author_profile: true
 ---
