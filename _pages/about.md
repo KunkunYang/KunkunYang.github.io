@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/ZekunYang_withStudents.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/ZekunYang_withStudents.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
 * I am an Assistant Professor in the Department of Digital Humanities, [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Natural Language Processing, Digital Humanities, Digital Culture, E-Governance, Information Retrieval, and Machine Learning.
