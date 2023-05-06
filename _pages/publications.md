@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>Explainable multi-task convolutional neural network framework for electronic petition tag recommendation</b><br>
+Zekun Yang, Juan Feng.
+<b>Electronic Commerce Research and Applications</b>.
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1567422323000285)
+
 * <b>Let data sing the Uyghur Twelve Muqam: A text mining on lyrics</b><br>
 Limai Kai, Zekun Yang\*, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Jin Yan, Yanfen Huang, Kongwen Guan.
 <i>Digital Humanities 2023.</i> <b>DH 2023</b>.
