@@ -19,7 +19,7 @@ Zekun Yang, Liang Ma.
 
 * <b>“全景与远景：数字人文与国家文化数字化战略”——2022年中国数字人文年会综述</b><br>
 杨泽坤, 李少建, 凯丽麦.
-<b>数字人文研究</b><i>,3(01):3-17</i>.
+<b>数字人文研究</b><i>, 3(01), 3-17</i>.
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
 Zekun Yang, Zhijie Lin.
