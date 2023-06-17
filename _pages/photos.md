@@ -5,6 +5,15 @@ permalink: /photos/
 author_profile: true
 ---
 <p align="center">
+  <img src="https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/IDH_2023_Spring.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
+<p align="center">
+Introduction to Digital Humanities, Spring 2023
+</p>
+
+
+
+<p align="center">
   <img src="https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/NLPA_2023_Spring_1.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 <p align="center">
