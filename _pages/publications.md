@@ -11,7 +11,7 @@ Zekun Yang, Juan Feng.
 
 * <b>Let data sing the Uyghur Twelve Muqam: A text mining on lyrics</b><br>
 Limai Kai, Zekun Yang\*, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Jin Yan, Yanfen Huang, Kongwen Guan.
-<i>ADHO Digital Humanities Conference 2023.</i> <b>DH 2023</b>.
+<i>ADHO Digital Humanities Conference 2023.</i> <b>DH 2023</b>.[[Paper]](https://zenodo.org/record/7961822#.ZJ9FmXZBxPY)
 
 * <b>You respect, I respond: The role of citizen courtesy in government responsiveness to citizen-initiated contacts</b><br>
 Zekun Yang, Liang Ma.
@@ -19,7 +19,7 @@ Zekun Yang, Liang Ma.
 
 * <b>“全景与远景：数字人文与国家文化数字化战略”——2022年中国数字人文年会综述</b><br>
 杨泽坤, 李少建, 凯丽麦.
-<b>数字人文研究</b><i>, 3(01), 3-17</i>.
+<b>数字人文研究</b><i>, 3(01), 3-17</i>.[[Paper]](http://dhr.ruc.edu.cn/CN/abstract/abstract75.shtml)
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
 Zekun Yang, Zhijie Lin.
