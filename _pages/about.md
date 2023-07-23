@@ -17,7 +17,8 @@ redirect_from:
 
 
 # Recent News
-* June, 2023. I attended Public Management Research Conference 2023 (PMRC 2023) and presented one paper orally.
+* July, 2023. I attended ADHO Digital Humanities Conference 2023 (DH 2023) and presented one paper.
+* June, 2023. I attended Public Management Research Conference 2023 (PMRC 2023) and presented one paper.
 * March, 2023. I served as the Event Co-Chair of the Chinese Track of iConference 2023.
 * November, 2022. I served on the organizing team of the 2022 China Digital Humanities Annual Conference (CDH 2022).
 * December, 2021. I joined the School of Information Resource Management, Renmin University of China.
