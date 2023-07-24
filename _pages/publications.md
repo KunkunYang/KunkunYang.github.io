@@ -6,7 +6,7 @@ author_profile: true
 ---
 * <b>Explainable multi-task convolutional neural network framework for electronic petition tag recommendation</b><br>
 Zekun Yang, Juan Feng.
-<b>Electronic Commerce Research and Applications</b><i>, 2023</i>.
+<b>Electronic Commerce Research and Applications</b><i>, 2023, 59, 101263</i>.
 [[Paper]](https://doi.org/10.1016/j.elerap.2023.101263)
 
 * <b>Let data sing the Uyghur Twelve Muqam: A text mining on lyrics</b><br>
