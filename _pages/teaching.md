@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 * Instructor of Graduate Course <b>Natural Language Processing and Application</b><br>
-Spring Semester (Feb. - Jul.), 2023 - Now, *School of Information Resource Management, Renmin University of China*
+Fall Semester (Sep. - Dec.), 2023 - Now, Spring Semester (Feb. - Jul.), 2023, *School of Information Resource Management, Renmin University of China*
 
 * Instructor of Undergraduate Course <b>Introduction to Digital Culture</b><br>
 Fall Semester (Sep. - Dec.), 2022 - Now, *School of Information Resource Management, Renmin University of China*
