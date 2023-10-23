@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/SSEC_Class_6_2022.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src= "https://i.postimg.cc/kXnHwy0x/SSEC-Class-6-2022.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 * I am an Assistant Professor in the Department of Digital Humanities, [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Natural Language Processing, Digital Humanities, Digital Culture, E-Governance, Information Systems, and Machine Learning.

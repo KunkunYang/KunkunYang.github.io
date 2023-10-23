@@ -35,7 +35,7 @@ Social Network Analysis and Digital Humanities, Spring 2023
 
 
 <p align="center">
-  <img src="https://github.com/KunkunYang/KunkunYang.github.io/blob/master/files/SSEC_Class_6_2022.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src= "https://i.postimg.cc/kXnHwy0x/SSEC-Class-6-2022.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 <p align="center">
 Social Science Experimental Class 6, Class of 2026
