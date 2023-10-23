@@ -12,7 +12,7 @@ author_profile: true
 * [My CityU Scholars Homepage](https://scholars.cityu.edu.hk/en/persons/zekun-yang(d3b367eb-cecf-4553-b3f6-48e1084bad68).html)
 
 
-<b>Personal Homepages of My Colaborators</b>
+<b>Personal Websites of My Colaborators</b>
 * [Liang Ma](http://liangma.weebly.com/)
 
 * [Tianlin Liu](https://tianlinliu.com/)
