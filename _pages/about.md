@@ -22,8 +22,9 @@ redirect_from:
 * March, 2023. I served as the Event Co-Chair of the Chinese Track of iConference 2023.
 * November, 2022. I served on the organizing team of the 2022 China Digital Humanities Annual Conference (CDH 2022).
 * December, 2021. I joined the School of Information Resource Management, Renmin University of China.
+* July, 2021. I passed my Ph.D. thesis oral defence.
 * March, 2021. I attended iConference 2021.
 * July, 2020. I attended the Frontier of Space Econometrics Summer School, Peking University.
 * February, 2020. Due to the outbreak of coronavirus and travel restrictions of the US government, I am not able to attend AAAI 2020 in person. Here are the posters for our two papers: [[Paper_3106]](https://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Paper_3321]](https://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf).
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5GXBASL3V3CS_T-k1r1xDZy3F0IEZghHuhZYHs2vQfg"></script>
+<a href="https://clustrmaps.com/site/1bx2h"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=5GXBASL3V3CS_T-k1r1xDZy3F0IEZghHuhZYHs2vQfg&cl=ffffff" /></a>
