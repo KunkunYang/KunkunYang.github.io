@@ -17,7 +17,7 @@ redirect_from:
 
 
 # Recent News
-* July, 2023. I attended Digital Humanities 2023 (DH 2023) and presented one paper. Here is our poster [[Poster]](https://zekunyang.com/files/Poster_DH2023.pdf)
+* July, 2023. I attended Digital Humanities 2023 (DH 2023) and presented one paper. Here is our poster [[Poster]](https://zekunyang.com/files/Poster_DH2023.pdf).
 * June, 2023. I attended Public Management Research Conference 2023 (PMRC 2023) and presented one paper.
 * March, 2023. I served as the Event Co-Chair of the Chinese Track of iConference 2023.
 * November, 2022. I served on the organizing team of the 2022 China Digital Humanities Annual Conference (CDH 2022).

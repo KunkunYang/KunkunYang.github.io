@@ -12,7 +12,7 @@ Zekun Yang, Juan Feng.
 * <b>Let data sing the Uyghur Twelve Muqam: A text mining on lyrics</b><br>
 Limai Kai, Zekun Yang\*, Huiling Feng, Yuenan Liu, Jihong Liang, Huilin Yang, Jin Yan, Yanfen Huang, Kongwen Guan.
 <i>Digital Humanities 2023.</i> <b>DH 2023</b>.
-[[Paper]](https://zenodo.org/record/8107854)
+[[Paper]](https://zenodo.org/record/8107854)[[Poster]](https://zekunyang.com/files/Poster_DH2023.pdf)
 
 * <b>You respect, I respond: The role of citizen courtesy in government responsiveness to citizen-initiated contacts</b><br>
 Zekun Yang, Liang Ma.
