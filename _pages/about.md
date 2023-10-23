@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <p align="center">
 <a href='https://postimg.cc/R3BgP3nc' target='_blank'><img src='https://i.postimg.cc/zfL4GKzP/SSEC-Class-6-2022.jpg' border='0' alt='SSEC-Class-6-2022'/></a>
 </p>
