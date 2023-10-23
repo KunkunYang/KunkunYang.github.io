@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Photos at Renmin University of China"
+title: "Class Photos at Renmin University of China"
 permalink: /photos/
 author_profile: true
 ---
