@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src= "https://i.postimg.cc/43HwBM6B/SSEC-Class-6-2022.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
+<a href='https://postimg.cc/f3Zxb8g9' target='_blank'><img src='https://i.postimg.cc/f3Zxb8g9/SSEC-Class-6-2022.jpg' border='0' alt='SSEC-Class-6-2022'/></a>
 </p>
 
 * I am an Assistant Professor in the Department of Digital Humanities, [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Natural Language Processing, Digital Humanities, Digital Culture, E-Governance, Information Systems, and Machine Learning.
