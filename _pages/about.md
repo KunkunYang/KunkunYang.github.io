@@ -26,5 +26,5 @@ redirect_from:
 * March, 2021. I attended iConference 2021.
 
 <p align="center">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5GXBASL3V3CS_T-k1r1xDZy3F0IEZghHuhZYHs2vQfg"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=52adc8&w=400&t=tt&d=5GXBASL3V3CS_T-k1r1xDZy3F0IEZghHuhZYHs2vQfg&co=ffffff&cmo=b6dfff&cmn=008fff&ct=52adc8'></script>
 </p>

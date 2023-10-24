@@ -1,4 +1,4 @@
 * July, 2020. I attended the Frontier of Space Econometrics Summer School, Peking University.
 * February, 2020. Due to the outbreak of coronavirus and travel restrictions of the US government, I am not able to attend AAAI 2020 in person. Here are the posters for our two papers: [[Paper_3106]](https://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Paper_3321]](https://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf).
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=185a18&w=500&t=tt&d=5GXBASL3V3CS_T-k1r1xDZy3F0IEZghHuhZYHs2vQfg&co=5ad7ec&ct=ffffff&cmo=c8c8c8&cmn=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=52adc8&w=400&t=tt&d=5GXBASL3V3CS_T-k1r1xDZy3F0IEZghHuhZYHs2vQfg&co=ffffff&cmo=b6dfff&cmn=008fff&ct=52adc8'></script>
