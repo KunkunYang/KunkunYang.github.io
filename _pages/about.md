@@ -11,7 +11,7 @@ redirect_from:
 <a href='https://postimg.cc/R3BgP3nc' target='_blank'><img src='https://i.postimg.cc/zfL4GKzP/SSEC-Class-6-2022.jpg' border='0' alt='SSEC-Class-6-2022'/></a>
 </p>
 
-* I am an Assistant Professor in the Department of Digital Humanities, [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Natural Language Processing, Digital Humanities, Digital Culture, E-Governance, Information Systems, and Machine Learning.
+* I am an Assistant Professor in the Department of Digital Humanities, [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Natural Language Processing, Digital Humanities, Information Systems, E-Governance, and Machine Learning.
 * I serve as the editor of [Digital Humanities Research (Chinese)](http://dhr.ruc.edu.cn/EN/2096-9155/home.shtml). I also serve as the reviewer/PC member of many journals and conferences, including Decision Support Systems, Internet Research, Knowledge and Information Systems, AAAI, ECAI, and DH.
 * I hold a Ph.D. in Information Systems from the [Department of Information Systems, City University of Hong Kong](https://www.cb.cityu.edu.hk/is/). My Ph.D. supervisors are [Prof. Juan Feng](https://www.sem.tsinghua.edu.cn/info/1183/32092.htm) and [Prof. David Jingjun Xu](https://www.cb.cityu.edu.hk/staff/davidxu/). I also hold an MSc in Machine Learning (with distinction) from University College London, UK and a BSc in Applied and Computational Mathematics from Jacobs University Bremen, Germany.
 
