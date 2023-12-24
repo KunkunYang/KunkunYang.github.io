@@ -4,6 +4,43 @@ title: "Class Photos at Renmin University of China"
 permalink: /photos/
 author_profile: true
 ---
+
+<p align="center">
+<a href="https://postimg.cc/18HBYCPd" target="_blank"><img src="https://i.postimg.cc/18HBYCPd/NLPA-2023-Fall.jpg" alt="NLPA-2023-Fall"/></a><br/><br/>
+</p>
+<p align="center">
+Natural Language Processing and Application, Fall 2023
+</p>
+
+
+
+<p align="center">
+<a href="https://postimg.cc/Xp5DxkrM" target="_blank"><img src="https://i.postimg.cc/Xp5DxkrM/IDC-2023-Fall.jpg" alt="IDC-2023-Fall"/></a><br/><br/>
+</p>
+<p align="center">
+Introduction to Digital Culture, Fall 2023
+</p>
+
+
+
+<p align="center">
+<a href="https://postimg.cc/ZC6V6YQ4" target="_blank"><img src="https://i.postimg.cc/ZC6V6YQ4/DHSNA-2023-Fall.jpg" alt="DHSNA-2023-Fall"/></a><br/><br/>
+</p>
+<p align="center">
+Digital Humanities and Social Network Analysis, Fall 2023
+</p>
+
+
+
+<p align="center">
+<a href="https://postimg.cc/s1kTBGwT" target="_blank"><img src="https://i.postimg.cc/s1kTBGwT/AICCL-2023-Fall.jpg" alt="AICCL-2023-Fall"/></a><br/><br/>
+</p>
+<p align="center">
+Artificial Intelligence and Classical Chinese Literature, Fall 2023
+</p>
+
+
+
 <p align="center">
 <a href='https://postimg.cc/LgnDqLrM' target='_blank'><img src='https://i.postimg.cc/7hNWWN9b/IDH-2023-Spring.jpg' border='0' alt='IDH-2023-Spring'/></a>
 </p>
