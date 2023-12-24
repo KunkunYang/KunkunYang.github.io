@@ -4,7 +4,6 @@ title: "Class Photos at Renmin University of China"
 permalink: /photos/
 author_profile: true
 ---
-
 <p align="center">
 <a href="https://postimg.cc/18HBYCPd" target="_blank"><img src="https://i.postimg.cc/18HBYCPd/NLPA-2023-Fall.jpg" alt="NLPA-2023-Fall"/></a><br/><br/>
 </p>
