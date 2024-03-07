@@ -11,6 +11,9 @@ author_profile: true
 
 * [My CityU Scholars Homepage](https://scholars.cityu.edu.hk/en/persons/zekun-yang(d3b367eb-cecf-4553-b3f6-48e1084bad68).html)
 
+<b>Student Projects</b>
+
+<p style="text-decoration:underline;"><a href="/ChinaPMmaps.html">See a map of all the places I've given a talk!</a></p>
 
 <b>Personal Websites of My Colaborators</b>
 * [Liang Ma](http://liangma.weebly.com/)
