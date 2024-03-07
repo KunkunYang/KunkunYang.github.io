@@ -13,7 +13,7 @@ author_profile: true
 
 <b>Student Projects</b>
 
-* <p style="text-decoration:underline;"><a href="/ChinaPMmap.html">中国宰相仕宦轨迹地图网站</a></p>
+* <p style="text-decoration:underline;"><a href="/ChinaPMmap.html">Career Trajectory Map of Prime Ministers in Ancient China 中国宰相仕宦轨迹地图网站</a></p>
 
 <b>Personal Websites of My Colaborators</b>
 * [Liang Ma](http://liangma.weebly.com/)
