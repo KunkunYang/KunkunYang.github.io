@@ -15,6 +15,8 @@ author_profile: true
 
 <p style="text-decoration:underline;"><a href="/ChinaPMmaps.html">See a map of all the places I've given a talk!</a></p>
 
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
 <b>Personal Websites of My Colaborators</b>
 * [Liang Ma](http://liangma.weebly.com/)
 
