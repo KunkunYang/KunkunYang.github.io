@@ -13,9 +13,7 @@ author_profile: true
 
 <b>Student Projects</b>
 
-<p style="text-decoration:underline;"><a href="/ChinaPMmaps.html">See a map of all the places I've given a talk!</a></p>
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+* <p style="text-decoration:underline;"><a href="/ChinaPMmap.html">中国宰相仕宦轨迹地图网站</a></p>
 
 <b>Personal Websites of My Colaborators</b>
 * [Liang Ma](http://liangma.weebly.com/)
