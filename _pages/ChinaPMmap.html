@@ -95,152 +95,78 @@ author_profile: false
     <script>
         const mapLinks = {
             // 以人物名字命名的地图链接
-        }
-
-          .overlay {
-            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://ts1.cn.mm.bing.net/th/id/R-C.05912f76a632e18f39add3c75e6cfe11?rik=zan55nOWmaoQ0Q&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20190806%2f6f693441b747427395794810992482b5.JPG&ehk=z0GqHPVxfo4vh9JZgs2ykIR8rQgXmlFw06APTxmXw8g%3d&risl=&pid=ImgRaw&r=0');
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
-
-        h1 {
-            font-size: 48px;
-            margin-bottom: 30px;
-        }
-
-        input[type="text"] {
-            background-color: white; /* 将背景色设置为白色 */
-            width: 200px; /* 设置搜索框宽度 */
-            height: 20px; /* 设置搜索框高度 */
-            font-size: 14px; /* 设置文字大小 */
-            border: 1px solid #ccc; /* 设置边框样式 */
-            border-radius: 5px; /* 设置边框圆角 */
-            padding: 5px; /* 设置内边距 */
-        }
-
-        button {
-            padding: 15px 30px;
-            font-size: 18px;
-            cursor: pointer;
-            background-color: #4caf50;
-            border: none;
-            border-radius: 6px;
-            transition: background-color 0.3s;
-            display: block;
-            margin: 0 auto; /* 让搜索按钮居中 */
-        }
-
-        button:hover {
-            background-color: #45a049;
-        }
-
-         #searchResults {
-            color: #fff; /* 搜索结果的文字颜色 */
-            margin-top: 30px;
-			font-size: 18px; /* 设置链接文本大小为18像素 */
-    		font-weight: bold; /* 设置链接文本加粗 */
-        }
-		#searchResults a {
-    		color: #fff; /* 设置链接文本颜色为白色 */
-    /* 可以添加其他链接样式，比如:hover伪类样式 */
-			font-size: 18px; /* 设置链接文本大小为18像素 */
-    		font-weight: bold; /* 设置链接文本加粗 */
-		}
-		#searchResults a:hover {
-    		text-decoration: underline; /* 鼠标悬停时添加下划线效果 */
-    /* 可以添加其他:hover状态下的样式 */
-}
-
-    </style>
-</head>
-<body>
-    <div class="overlay">
-        <div class="container">
-            <h1>中国宰相仕宦轨迹地图搜索引擎</h1>
-            <div style="background-color:#333;padding:20px;border-radius:6px;"><input type="text" id="searchInput" placeholder="输入人物名字" style="width:100%;height:40px;border:none;border-radius:6px;"></div>
-            <button onclick="search()">搜索</button>
-            <div id="searchResults"></div>
-        </div>
-    </div>
-
-    <script>
-        const mapLinks = {
-            // 以人物名字命名的地图链接
-            "丁谓": "maps/%E4%B8%81%E8%B0%93_map.html",
-			"何㮚": "maps/%E4%BD%95%E3%AE%9A_map.html",
-			"何执中":"maps/%E4%BD%95%E6%89%A7%E4%B8%AD_map.html",
-			"余深":"maps/%E4%BD%99%E6%B7%B1_map.html",
-			"冯拯":"maps/%E5%86%AF%E6%8B%AF_map.html",
-			"刘挚":"maps/%E5%88%98%E6%8C%9A_map.html",
-			"刘正夫":"maps/%E5%88%98%E6%AD%A3%E5%A4%AB_map.html",
-			"刘沆":"maps/%E5%88%98%E6%B2%86_map.html",
-			"卢多逊":"maps/%E5%8D%A2%E5%A4%9A%E9%80%8A_map.html",
-			"司马光":"maps/%E5%8F%B8%E9%A9%AC%E5%85%89_map.html",
-			"向敏中":"maps/%E5%90%91%E6%95%8F%E4%B8%AD_map.html",
-			"吕公著":"maps/%E5%90%95%E5%85%AC%E8%91%97_map.html",
-			"吕大防":"maps/%E5%90%95%E5%A4%A7%E9%98%B2_map.html",
-			"吕夷简":"maps/%E5%90%95%E5%A4%B7%E7%AE%80_map.html",
-			"吕端":"maps/%E5%90%95%E7%AB%AF_map.html",
-			"吕蒙正":"maps/%E5%90%95%E8%92%99%E6%AD%A3_map.html",
-			"吴充":"maps/%E5%90%B4%E5%85%85_map.html",
-			"吴敏":"maps/%E5%90%B4%E6%95%8F_map.html",
-			"唐恪":"maps/%E5%94%90%E6%81%AA_map.html",
-			"宋庠":"maps/%E5%AE%8B%E5%BA%A0_map.html",
-			"宋琪":"maps/%E5%AE%8B%E7%90%AA_map.html",
-			"寇准":"maps/%E5%AF%87%E5%87%86_map.html",
-			"富弼":"maps/%E5%AF%8C%E5%BC%BC_map.html",
-			"庞籍":"maps/%E5%BA%9E%E7%B1%8D_map.html",
-			"张商英":"maps/%E5%BC%A0%E5%95%86%E8%8B%B1_map.html",
-			"张士逊":"maps/%E5%BC%A0%E5%A3%AB%E9%80%8A_map.html",
-			"张知白":"maps/%E5%BC%A0%E7%9F%A5%E7%99%BD_map.html",
-			"张昌邦":"maps/%E5%BC%A0%E9%82%A6%E6%98%8C_map.html",
-			"张齐贤":"maps/%E5%BC%A0%E9%BD%90%E8%B4%A4_map.html",
-			"徐处仁":"maps/%E5%BE%90%E5%A4%84%E4%BB%81_map.html",
-			"文彦博":"maps/%E6%96%87%E5%BD%A6%E5%8D%9A_map.html",
-			"晏殊":"maps/%E6%99%8F%E6%AE%8A_map.html",
-			"曾公亮":"maps/%E6%9B%BE%E5%85%AC%E4%BA%AE_map.html",
-			"曾布":"maps/%E6%9B%BE%E5%B8%83_map.html",
-			"李昉":"maps/%E6%9D%8E%E6%98%89_map.html",
-			"李沆":"maps/%E6%9D%8E%E6%B2%86_map.html",
-			"李迪":"maps/%E6%9D%8E%E8%BF%AA_map.html",
-			"李邦彦":"maps/%E6%9D%8E%E9%82%A6%E5%BD%A6_map.html",
-			"杜衍":"maps/%E6%9D%9C%E8%A1%8D_map.html",
-			"梁适":"maps/%E6%A2%81%E9%80%82_map.html",
-			"毕士安":"maps/%E6%AF%95%E5%A3%AB%E5%AE%89_map.html",
-			"沈义伦":"maps/%E6%B2%88%E4%B9%89%E4%BC%A6_map.html",
-			"王安石":"maps/%E7%8E%8B%E5%AE%89%E7%9F%B3_map.html",
-			"王旦":"maps/%E7%8E%8B%E6%97%A6_map.html",
-			"王曾":"maps/%E7%8E%8B%E6%9B%BE_map.html",
-			"王溥":"maps/%E7%8E%8B%E6%BA%A5_map.html",
-			"王珪":"maps/%E7%8E%8B%E7%8F%AA_map.html",
-			"王钦若":"maps/%E7%8E%8B%E9%92%A6%E8%8B%A5_map.html",
-			"王随":"maps/%E7%8E%8B%E9%9A%8F_map.html",
-			"王黼":"maps/%E7%8E%8B%E9%BB%BC_map.html",
-			"白时中":"maps/%E7%99%BD%E6%97%B6%E4%B8%AD_map.html",
-			"章得象":"maps/%E7%AB%A0%E5%BE%97%E8%B1%A1_map.html",
-			"章惇":"maps/%E7%AB%A0%E6%83%87_map.html",
-			"苏颂":"maps/%E8%8B%8F%E9%A2%82_map.html",
-			"范仲淹":"maps/%E8%8C%83%E4%BB%B2%E6%B7%B9_map.html",
-			"范纯仁":"maps/%E8%8C%83%E7%BA%AF%E4%BB%81_map.html",
-			"范质":"maps/%E8%8C%83%E8%B4%A8_map.html",
-			"蔡京":"maps/%E8%94%A1%E4%BA%AC_map.html",
-			"蔡确":"maps/%E8%94%A1%E7%A1%AE_map.html",
-			"薛居正":"maps/%E8%96%9B%E5%B1%85%E6%AD%A3%C2%A0_map.html",
-			"贾昌朝":"maps/%E8%B4%BE%E6%98%8C%E6%9C%9D_map.html",
-			"赵挺之":"maps/%E8%B5%B5%E6%8C%BA%E4%B9%8B_map.html",
-			"赵普":"maps/%E8%B5%B5%E6%99%AE_map.html",
-			"郑居中":"maps/%E9%83%91%E5%B1%85%E4%B8%AD_map.html",
-			"陈升之":"maps/%E9%99%88%E5%8D%87%E4%B9%8B_map.html",
-			"陈尧佐":"maps/%E9%99%88%E5%B0%A7%E4%BD%90_map.html",
-			"陈执中":"maps/%E9%99%88%E6%89%A7%E4%B8%AD_map.html",
-			"韩忠彦":"maps/%E9%9F%A9%E5%BF%A0%E5%BD%A6_map.html",
-			"韩琦":"maps/%E9%9F%A9%E7%90%A6_map.html",
-			"韩绛":"maps/%E9%9F%A9%E7%BB%9B_map.html",
-			"韩缜":"maps/%E9%9F%A9%E7%BC%9C_map.html",
-			"魏仁浦":"maps/%E9%AD%8F%E4%BB%81%E6%B5%A6_map.html",
+            "丁谓": "China_PM_maps/%E4%B8%81%E8%B0%93_map.html",
+			"何㮚": "China_PM_maps/%E4%BD%95%E3%AE%9A_map.html",
+			"何执中":"China_PM_maps/%E4%BD%95%E6%89%A7%E4%B8%AD_map.html",
+			"余深":"China_PM_maps/%E4%BD%99%E6%B7%B1_map.html",
+			"冯拯":"China_PM_maps/%E5%86%AF%E6%8B%AF_map.html",
+			"刘挚":"China_PM_maps/%E5%88%98%E6%8C%9A_map.html",
+			"刘正夫":"China_PM_maps/%E5%88%98%E6%AD%A3%E5%A4%AB_map.html",
+			"刘沆":"China_PM_maps/%E5%88%98%E6%B2%86_map.html",
+			"卢多逊":"China_PM_maps/%E5%8D%A2%E5%A4%9A%E9%80%8A_map.html",
+			"司马光":"China_PM_maps/%E5%8F%B8%E9%A9%AC%E5%85%89_map.html",
+			"向敏中":"China_PM_maps/%E5%90%91%E6%95%8F%E4%B8%AD_map.html",
+			"吕公著":"China_PM_maps/%E5%90%95%E5%85%AC%E8%91%97_map.html",
+			"吕大防":"China_PM_maps/%E5%90%95%E5%A4%A7%E9%98%B2_map.html",
+			"吕夷简":"China_PM_maps/%E5%90%95%E5%A4%B7%E7%AE%80_map.html",
+			"吕端":"China_PM_maps/%E5%90%95%E7%AB%AF_map.html",
+			"吕蒙正":"China_PM_maps/%E5%90%95%E8%92%99%E6%AD%A3_map.html",
+			"吴充":"China_PM_maps/%E5%90%B4%E5%85%85_map.html",
+			"吴敏":"China_PM_maps/%E5%90%B4%E6%95%8F_map.html",
+			"唐恪":"China_PM_maps/%E5%94%90%E6%81%AA_map.html",
+			"宋庠":"China_PM_maps/%E5%AE%8B%E5%BA%A0_map.html",
+			"宋琪":"China_PM_maps/%E5%AE%8B%E7%90%AA_map.html",
+			"寇准":"China_PM_maps/%E5%AF%87%E5%87%86_map.html",
+			"富弼":"China_PM_maps/%E5%AF%8C%E5%BC%BC_map.html",
+			"庞籍":"China_PM_maps/%E5%BA%9E%E7%B1%8D_map.html",
+			"张商英":"China_PM_maps/%E5%BC%A0%E5%95%86%E8%8B%B1_map.html",
+			"张士逊":"China_PM_maps/%E5%BC%A0%E5%A3%AB%E9%80%8A_map.html",
+			"张知白":"China_PM_maps/%E5%BC%A0%E7%9F%A5%E7%99%BD_map.html",
+			"张昌邦":"China_PM_maps/%E5%BC%A0%E9%82%A6%E6%98%8C_map.html",
+			"张齐贤":"China_PM_maps/%E5%BC%A0%E9%BD%90%E8%B4%A4_map.html",
+			"徐处仁":"China_PM_maps/%E5%BE%90%E5%A4%84%E4%BB%81_map.html",
+			"文彦博":"China_PM_maps/%E6%96%87%E5%BD%A6%E5%8D%9A_map.html",
+			"晏殊":"China_PM_maps/%E6%99%8F%E6%AE%8A_map.html",
+			"曾公亮":"China_PM_maps/%E6%9B%BE%E5%85%AC%E4%BA%AE_map.html",
+			"曾布":"China_PM_maps/%E6%9B%BE%E5%B8%83_map.html",
+			"李昉":"China_PM_maps/%E6%9D%8E%E6%98%89_map.html",
+			"李沆":"China_PM_maps/%E6%9D%8E%E6%B2%86_map.html",
+			"李迪":"China_PM_maps/%E6%9D%8E%E8%BF%AA_map.html",
+			"李邦彦":"China_PM_maps/%E6%9D%8E%E9%82%A6%E5%BD%A6_map.html",
+			"杜衍":"China_PM_maps/%E6%9D%9C%E8%A1%8D_map.html",
+			"梁适":"China_PM_maps/%E6%A2%81%E9%80%82_map.html",
+			"毕士安":"China_PM_maps/%E6%AF%95%E5%A3%AB%E5%AE%89_map.html",
+			"沈义伦":"China_PM_maps/%E6%B2%88%E4%B9%89%E4%BC%A6_map.html",
+			"王安石":"China_PM_maps/%E7%8E%8B%E5%AE%89%E7%9F%B3_map.html",
+			"王旦":"China_PM_maps/%E7%8E%8B%E6%97%A6_map.html",
+			"王曾":"China_PM_maps/%E7%8E%8B%E6%9B%BE_map.html",
+			"王溥":"China_PM_maps/%E7%8E%8B%E6%BA%A5_map.html",
+			"王珪":"China_PM_maps/%E7%8E%8B%E7%8F%AA_map.html",
+			"王钦若":"China_PM_maps/%E7%8E%8B%E9%92%A6%E8%8B%A5_map.html",
+			"王随":"China_PM_maps/%E7%8E%8B%E9%9A%8F_map.html",
+			"王黼":"China_PM_maps/%E7%8E%8B%E9%BB%BC_map.html",
+			"白时中":"China_PM_maps/%E7%99%BD%E6%97%B6%E4%B8%AD_map.html",
+			"章得象":"China_PM_maps/%E7%AB%A0%E5%BE%97%E8%B1%A1_map.html",
+			"章惇":"China_PM_maps/%E7%AB%A0%E6%83%87_map.html",
+			"苏颂":"China_PM_maps/%E8%8B%8F%E9%A2%82_map.html",
+			"范仲淹":"China_PM_maps/%E8%8C%83%E4%BB%B2%E6%B7%B9_map.html",
+			"范纯仁":"China_PM_maps/%E8%8C%83%E7%BA%AF%E4%BB%81_map.html",
+			"范质":"China_PM_maps/%E8%8C%83%E8%B4%A8_map.html",
+			"蔡京":"China_PM_maps/%E8%94%A1%E4%BA%AC_map.html",
+			"蔡确":"China_PM_maps/%E8%94%A1%E7%A1%AE_map.html",
+			"薛居正":"China_PM_maps/%E8%96%9B%E5%B1%85%E6%AD%A3%C2%A0_map.html",
+			"贾昌朝":"China_PM_maps/%E8%B4%BE%E6%98%8C%E6%9C%9D_map.html",
+			"赵挺之":"China_PM_maps/%E8%B5%B5%E6%8C%BA%E4%B9%8B_map.html",
+			"赵普":"China_PM_maps/%E8%B5%B5%E6%99%AE_map.html",
+			"郑居中":"China_PM_maps/%E9%83%91%E5%B1%85%E4%B8%AD_map.html",
+			"陈升之":"China_PM_maps/%E9%99%88%E5%8D%87%E4%B9%8B_map.html",
+			"陈尧佐":"China_PM_maps/%E9%99%88%E5%B0%A7%E4%BD%90_map.html",
+			"陈执中":"China_PM_maps/%E9%99%88%E6%89%A7%E4%B8%AD_map.html",
+			"韩忠彦":"China_PM_maps/%E9%9F%A9%E5%BF%A0%E5%BD%A6_map.html",
+			"韩琦":"China_PM_maps/%E9%9F%A9%E7%90%A6_map.html",
+			"韩绛":"China_PM_maps/%E9%9F%A9%E7%BB%9B_map.html",
+			"韩缜":"China_PM_maps/%E9%9F%A9%E7%BC%9C_map.html",
+			"魏仁浦":"China_PM_maps/%E9%AD%8F%E4%BB%81%E6%B5%A6_map.html",
             // 其他人物地图链接...
         };
 
