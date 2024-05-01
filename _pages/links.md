@@ -7,7 +7,7 @@ author_profile: true
 
 
 <b>My Other Personal Homepages</b>
-* [My University Homepage (Chinese)](https://irm.ruc.edu.cn/szdw/zzjs/ajysfl/z_szrw/4ef9e882399147abac7d8342c994aacb.htm)
+* [My University Homepage (Chinese)](https://irm.ruc.edu.cn/jszy/yzk/index.htm)
 
 * [My CityU Scholars Homepage](https://scholars.cityu.edu.hk/en/persons/zekun-yang(d3b367eb-cecf-4553-b3f6-48e1084bad68).html)
 
