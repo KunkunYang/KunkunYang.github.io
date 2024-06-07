@@ -5,6 +5,15 @@ permalink: /photos/
 author_profile: true
 ---
 <p align="center">
+<a href="https://postimg.cc/18HBYCPd" target="_blank"><img src='https://i.postimg.cc/nXpttDDW/CA-2024-Spring.jpg' border='0' alt='CA-2024-Spring'/></a><br/><br/>
+</p>
+<p align="center">
+Cultural Analytics, Spring 2024
+</p>
+
+
+
+<p align="center">
 <a href="https://postimg.cc/18HBYCPd" target="_blank"><img src="https://i.postimg.cc/18HBYCPd/NLPA-2023-Fall.jpg" alt="NLPA-2023-Fall"/></a><br/><br/>
 </p>
 <p align="center">
