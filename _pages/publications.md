@@ -6,7 +6,7 @@ author_profile: true
 ---
 * <b>A Semantic Framework for Uyghur Muqam</b><br>
 Limai Kai, Zekun Yang\*.
-<b>iConference 2024 Proceedings</i>.
+<b>iConference 2024 Proceedings</b>.
 [[Paper]](https://hdl.handle.net/2142/122792)
 
 * <b>Explainable multi-task convolutional neural network framework for electronic petition tag recommendation</b><br>
