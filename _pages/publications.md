@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>A Semantic Framework for Uyghur Muqam</b><br>
+Limai Kai, Zekun Yang\*.
+<b>iConference 2024 Proceedings</i>.
+[[Paper]](https://hdl.handle.net/2142/122792)
+
 * <b>Explainable multi-task convolutional neural network framework for electronic petition tag recommendation</b><br>
 Zekun Yang, Juan Feng.
 <b>Electronic Commerce Research and Applications</b><i>, 2023, 59, 101263</i>.
