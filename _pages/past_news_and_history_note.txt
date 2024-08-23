@@ -3,3 +3,5 @@
 * February, 2020. Due to the outbreak of coronavirus and travel restrictions of the US government, I am not able to attend AAAI 2020 in person. Here are the posters for our two papers: [[Paper_3106]](https://zekunyang.com/files/aaai_paper_3106_poster_ZYang.pdf) [[Paper_3321]](https://zekunyang.com/files/aaai_paper_3321_poster_ZYang.pdf).
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=52adc8&w=400&t=tt&d=5GXBASL3V3CS_T-k1r1xDZy3F0IEZghHuhZYHs2vQfg&co=ffffff&cmo=0024b6&cmn=0024b6&ct=494e52'></script>
+
+<p style="text-decoration:underline;"><a href="/ChinaPMmap.html">Career Trajectory Map of Prime Ministers in Ancient China 中国宰相仕宦轨迹地图网站 Version 1.0</a></p>
