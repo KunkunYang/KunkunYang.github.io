@@ -5,6 +5,27 @@ permalink: /photos/
 author_profile: true
 ---
 <p align="center">
+<a href="https://postimg.cc/18HBYCPd" target="_blank"><img src='https://i.postimg.cc/GBgwQpyX/AICCL-2024-Fall.jpg' border='0' alt='CA-2024-Spring'/></a><br/><br/>
+</p>
+<p align="center">
+Artificial Intelligence and Classical Chinese Literature, Fall 2024
+</p>
+
+
+
+<p align="center">
+<a href='https://postimg.cc/nMz0wfMw' target='_blank'><img src='https://i.postimg.cc/680N8c5J/Master-Class-6-2.jpg' border='0' alt='NLPA-2023-Spring-1'/></a>
+</p>
+<p align="center">
+<a href='https://postimg.cc/WFpXvQ8z' target='_blank'><img src='https://i.postimg.cc/3k7TrVhF/Master-Class-6-1.jpg' border='0' alt='NLPA-2023-Spring-2'/></a>
+</p>
+<p align="center">
+Master Class 3, Class of 2026
+</p>
+
+
+
+<p align="center">
 <a href="https://postimg.cc/18HBYCPd" target="_blank"><img src='https://i.postimg.cc/nXpttDDW/CA-2024-Spring.jpg' border='0' alt='CA-2024-Spring'/></a><br/><br/>
 </p>
 <p align="center">
