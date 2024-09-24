@@ -5,7 +5,7 @@ permalink: /photos/
 author_profile: true
 ---
 <p align="center">
-<a href="https://postimg.cc/18HBYCPd" target="_blank"><img src='https://i.postimg.cc/GBgwQpyX/AICCL-2024-Fall.jpg' border='0' alt='CA-2024-Spring'/></a><br/><br/>
+<a href="https://postimg.cc/GBgwQpyX" target="_blank"><img src='https://i.postimg.cc/gJmzGXkb/AICCL-2024-Fall.jpg' border='0' alt='CA-2024-Spring'/></a><br/><br/>
 </p>
 <p align="center">
 Artificial Intelligence and Classical Chinese Literature, Fall 2024
@@ -14,10 +14,10 @@ Artificial Intelligence and Classical Chinese Literature, Fall 2024
 
 
 <p align="center">
-<a href='https://postimg.cc/nMz0wfMw' target='_blank'><img src='https://i.postimg.cc/680N8c5J/Master-Class-6-2.jpg' border='0' alt='NLPA-2023-Spring-1'/></a>
+<a href="https://postimg.cc/680N8c5J" target='_blank'><img src='https://i.postimg.cc/Jhw7dYfn/Master-Class-6-2.jpg' border='0' alt='NLPA-2023-Spring-1'/></a>
 </p>
 <p align="center">
-<a href='https://postimg.cc/WFpXvQ8z' target='_blank'><img src='https://i.postimg.cc/3k7TrVhF/Master-Class-6-1.jpg' border='0' alt='NLPA-2023-Spring-2'/></a>
+<a href="https://postimg.cc/3k7TrVhF" target='_blank'><img src='https://i.postimg.cc/YCLqRByZ/Master-Class-6-1.jpg' border='0' alt='NLPA-2023-Spring-2'/></a>
 </p>
 <p align="center">
 Master Class 3, Class of 2026
@@ -26,7 +26,7 @@ Master Class 3, Class of 2026
 
 
 <p align="center">
-<a href="https://postimg.cc/18HBYCPd" target="_blank"><img src='https://i.postimg.cc/nXpttDDW/CA-2024-Spring.jpg' border='0' alt='CA-2024-Spring'/></a><br/><br/>
+<a href="https://postimg.cc/nXpttDDW" target="_blank"><img src='https://i.postimg.cc/DwbfLQy7/CA-2024-Spring.jpg' border='0' alt='CA-2024-Spring'/></a><br/><br/>
 </p>
 <p align="center">
 Cultural Analytics, Spring 2024
@@ -35,7 +35,7 @@ Cultural Analytics, Spring 2024
 
 
 <p align="center">
-<a href="https://postimg.cc/18HBYCPd" target="_blank"><img src="https://i.postimg.cc/18HBYCPd/NLPA-2023-Fall.jpg"  border='0' alt="NLPA-2023-Fall"/></a><br/><br/>
+<a href="https://postimg.cc/18HBYCPd" target="_blank"><img src="https://i.postimg.cc/TP8s1FsT/NLPA-2023-Fall.jpg"  border='0' alt="NLPA-2023-Fall"/></a><br/><br/>
 </p>
 <p align="center">
 Natural Language Processing and Application, Fall 2023
@@ -44,7 +44,7 @@ Natural Language Processing and Application, Fall 2023
 
 
 <p align="center">
-<a href="https://postimg.cc/Xp5DxkrM" target="_blank"><img src="https://i.postimg.cc/Xp5DxkrM/IDC-2023-Fall.jpg"  border='0' alt="IDC-2023-Fall"/></a><br/><br/>
+<a href="https://postimg.cc/Xp5DxkrM" target="_blank"><img src="https://i.postimg.cc/HsvDYSHL/IDC-2023-Fall.jpg"  border='0' alt="IDC-2023-Fall"/></a><br/><br/>
 </p>
 <p align="center">
 Introduction to Digital Culture, Fall 2023
@@ -53,7 +53,7 @@ Introduction to Digital Culture, Fall 2023
 
 
 <p align="center">
-<a href="https://postimg.cc/ZC6V6YQ4" target="_blank"><img src="https://i.postimg.cc/ZC6V6YQ4/DHSNA-2023-Fall.jpg"  border='0' alt="DHSNA-2023-Fall"/></a><br/><br/>
+<a href="https://postimg.cc/ZC6V6YQ4" target="_blank"><img src="https://i.postimg.cc/4NSqkmb7/DHSNA-2023-Fall.jpg"  border='0' alt="DHSNA-2023-Fall"/></a><br/><br/>
 </p>
 <p align="center">
 Digital Humanities and Social Network Analysis, Fall 2023
@@ -62,7 +62,7 @@ Digital Humanities and Social Network Analysis, Fall 2023
 
 
 <p align="center">
-<a href="https://postimg.cc/s1kTBGwT" target="_blank"><img src="https://i.postimg.cc/s1kTBGwT/AICCL-2023-Fall.jpg"  border='0' alt="AICCL-2023-Fall"/></a><br/><br/>
+<a href="https://postimg.cc/s1kTBGwT" target="_blank"><img src="https://i.postimg.cc/jd5mFzNY/AICCL-2023-Fall.jpg"  border='0' alt="AICCL-2023-Fall"/></a><br/><br/>
 </p>
 <p align="center">
 Artificial Intelligence and Classical Chinese Literature, Fall 2023
