@@ -44,7 +44,7 @@ Natural Language Processing and Application, Fall 2023
 
 
 <p align="center">
-<a href="https://postimg.cc/LgnDqLrM" target="_blank"><img src="https://i.postimg.cc/LgnDqLrM/IDH-2023-Spring.jpg" alt="IDH-2023-Spring"/></a>
+<a href="https://postimg.cc/Xp5DxkrM" target="_blank"><img src="https://i.postimg.cc/Xp5DxkrM/IDC-2023-Fall.jpg" alt="IDC-2023-Fall"/></a>
 </p>
 <p align="center">
 Introduction to Digital Culture, Fall 2023
