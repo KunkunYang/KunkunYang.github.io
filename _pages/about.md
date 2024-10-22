@@ -17,6 +17,8 @@ redirect_from:
 
 
 # Recent News
+* October, 2024. I attended CNAIS 2024.
+* June, 2024. I attended CSWIM 2024.
 * April, 2024. I attended iConference 2024 and presented one paper. Here is our poster [[Poster]](https://www.ideals.illinois.edu/items/129978).
 * July, 2023. I attended Digital Humanities 2023 (DH 2023) and presented one paper. Here is our poster [[Poster]](https://zekunyang.com/files/Poster_DH2023.pdf).
 * June, 2023. I attended Public Management Research Conference 2023 (PMRC 2023) and presented one paper.
