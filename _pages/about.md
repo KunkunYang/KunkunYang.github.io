@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* November, 2024. I attended CDH 2024 and presented one paper.
 * October, 2024. I attended CNAIS 2024.
 * June, 2024. I attended CSWIM 2024.
 * April, 2024. I attended iConference 2024 and presented one paper. Here is our poster [[Poster]](https://www.ideals.illinois.edu/items/129978).
