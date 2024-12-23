@@ -23,7 +23,7 @@ Spring Semester (Feb. - Jul.), 2022 - Now, *School of Information Resource Manag
 Fall & Spring Semester, 2022 - Now, *School of Information Resource Management, Renmin University of China*
 
 * Instructor of Undergraduate Course <b>Digital Humanities and Social Network Analysis</b><br>
-Fall Semester (Sep. - Dec.), 2022 - Fall Semester (Sep. - Dec.), 2023, *School of Information Resource Management, Renmin University of China*
+Fall Semester (Sep. - Dec.), 2022 - Now, *School of Information Resource Management, Renmin University of China*
 
 * Instructor of Graduate Course <b>Frontiers in Digital Humanities Research</b><br>
 Fall Semester (Sep. - Dec.), 2022, *School of Information Resource Management, Renmin University of China*
