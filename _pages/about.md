@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* November, 2024. I attended 9th BRICS Young Scientist Forum and gave a talk.
 * November, 2024. I attended CDH 2024 and presented one paper.
 * October, 2024. I attended CNAIS 2024.
 * June, 2024. I attended CSWIM 2024.
