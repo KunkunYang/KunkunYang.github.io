@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>数字人文背景下宰相仕宦轨迹地图库构建研究</b><br>
+钟蕾, 李贝贝, 张书影, 彭雨欣, 刘馨雨, 杨泽坤\*.
+<b>信息与管理研究</b><i>, 9(6): 60-69</i>.
+[[Paper]](https://jim.library.sh.cn/CN/Y2024/V9/I6/60)
+
 * <b>基于文本挖掘的维吾尔“十二木卡姆”唱词研究</b><br>
 凯丽麦, 李贝贝, 张书影, 钟蕾, 杨泽坤\*.
 <b>数字人文研究</b><i>, 4(3): 66-87</i>.
