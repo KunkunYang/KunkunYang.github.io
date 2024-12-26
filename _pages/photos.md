@@ -5,6 +5,24 @@ permalink: /photos/
 author_profile: true
 ---
 <p align="center">
+<a href='https://postimg.cc/2VSvLvJZ' target='_blank'><img src='https://i.postimg.cc/2VSvLvJZ/IDC-2024-Fall.jpg' alt='IDC-2024-Fall'/></a>
+</p>
+<p align="center">
+Introduction to Digital Culture, Fall 2024
+</p>
+
+
+
+<p align="center">
+<a href='https://postimg.cc/23wh5THY' target='_blank'><img src='https://i.postimg.cc/23wh5THY/DHSNA-2024-Fall.jpg' alt='DHSNA-2024-Fall'/></a>
+</p>
+<p align="center">
+Digital Humanities and Social Network Analysis, Fall 2024
+</p>
+
+
+
+<p align="center">
 <a href="https://postimg.cc/GBgwQpyX" target="_blank"><img src="https://i.postimg.cc/GBgwQpyX/AICCL-2024-Fall.jpg" alt="AICCL-2024-Fall"/></a>
 </p>
 <p align="center">
