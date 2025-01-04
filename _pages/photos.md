@@ -5,6 +5,15 @@ permalink: /photos/
 author_profile: true
 ---
 <p align="center">
+<a href='https://postimg.cc/jLrMb7rh' target='_blank'><img src='https://i.postimg.cc/jLrMb7rh/NLPA-2024-Fall.jpg' alt='NLPA-2024-Fall'/></a>
+</p>
+<p align="center">
+Natural Language Processing and Application, Fall 2024
+</p>
+
+
+
+<p align="center">
 <a href='https://postimg.cc/2VSvLvJZ' target='_blank'><img src='https://i.postimg.cc/2VSvLvJZ/IDC-2024-Fall.jpg' alt='IDC-2024-Fall'/></a>
 </p>
 <p align="center">
