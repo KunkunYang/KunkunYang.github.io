@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* Instructor of Graduate Course <b>Social Network Analysis</b><br>
+Fall Semester (Sep. - Dec.), 2024 - Now, *School of Information Resource Management, Renmin University of China*
+
 * Instructor of Ph.D. Course <b>Cultural Analytics</b><br>
 Spring Semester (Feb. - Jul.), 2024 - Now, *School of Information Resource Management, Renmin University of China*
 
