@@ -5,6 +5,15 @@ permalink: /photos/
 author_profile: true
 ---
 <p align="center">
+<a href='https://postimg.cc/4Y88GbXv' target='_blank'><img src='https://i.postimg.cc/4Y88GbXv/SNADH-2025-Spring.jpg' alt='SNADH-2025-Spring'/></a>
+</p>
+<p align="center">
+Social Network Analysis and Digital Humanities, Spring 2025
+</p>
+
+
+
+<p align="center">
 <a href='https://postimg.cc/jLrMb7rh' target='_blank'><img src='https://i.postimg.cc/jLrMb7rh/NLPA-2024-Fall.jpg' alt='NLPA-2024-Fall'/></a>
 </p>
 <p align="center">
