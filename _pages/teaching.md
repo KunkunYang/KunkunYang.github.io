@@ -16,9 +16,6 @@ Fall Semester (Sep. - Dec.), 2023 - Now, Spring Semester (Feb. - Jul.), 2023, *S
 * Instructor of Undergraduate Course <b>Introduction to Digital Culture</b><br>
 Fall Semester (Sep. - Dec.), 2022 - Now, *School of Information Resource Management, Renmin University of China*
 
-* Instructor of Seminar for Undergraduate Freshman <b>Artificial Intelligence and Classical Chinese Literature</b><br>
-Fall Semester (Sep. - Dec.), 2022 - Now, *School of Information Resource Management, Renmin University of China*
-
 * Instructor of Graduate Course <b>Social Network Analysis and Digital Humanities</b><br>
 Spring Semester (Feb. - Jul.), 2022 - Now, *School of Information Resource Management, Renmin University of China*
 
@@ -26,7 +23,10 @@ Spring Semester (Feb. - Jul.), 2022 - Now, *School of Information Resource Manag
 Fall & Spring Semester, 2022 - Now, *School of Information Resource Management, Renmin University of China*
 
 * Instructor of Undergraduate Course <b>Digital Humanities and Social Network Analysis</b><br>
-Fall Semester (Sep. - Dec.), 2022 - Now, *School of Information Resource Management, Renmin University of China*
+Fall Semester (Sep. - Dec.), 2022 - Fall Semester (Sep. - Dec.), 2024, *School of Information Resource Management, Renmin University of China*
+
+* Instructor of Seminar for Undergraduate Freshman <b>Artificial Intelligence and Classical Chinese Literature</b><br>
+Fall Semester (Sep. - Dec.), 2022 - Fall Semester (Sep. - Dec.), 2024, *School of Information Resource Management, Renmin University of China*
 
 * Instructor of Graduate Course <b>Frontiers in Digital Humanities Research</b><br>
 Fall Semester (Sep. - Dec.), 2022, *School of Information Resource Management, Renmin University of China*
