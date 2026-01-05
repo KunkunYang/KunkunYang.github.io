@@ -4,6 +4,25 @@ title: "Class Photos at Renmin University of China"
 permalink: /photos/
 author_profile: true
 ---
+
+<p align="center">
+<a href="https://postimg.cc/p5jyvDNW" target="_blank"><img src="https://i.postimg.cc/p5jyvDNW/NLPA-2025-Fall.jpg" alt="NLPA-2025-Fall"></a>
+</p>
+<p align="center">
+Natural Language Processing and Application, Fall 205
+</p>
+
+
+
+<p align="center">
+<a href="https://postimg.cc/hQmhn9F4" target="_blank"><img src="https://i.postimg.cc/hQmhn9F4/IDC-2025-Fall.jpg" alt="IDC-2025-Fall"></a>
+</p>
+<p align="center">
+Introduction to Digital Culture, Fall 2025
+</p>
+
+
+
 <p align="center">
 <a href='https://postimg.cc/4Y88GbXv' target='_blank'><img src='https://i.postimg.cc/4Y88GbXv/SNADH-2025-Spring.jpg' alt='SNADH-2025-Spring'/></a>
 </p>
