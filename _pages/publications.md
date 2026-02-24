@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>真实的幻像：麦卡蒂数字人文理论研究</b><br>
+孟令国, 杨泽坤\*.
+<b>图书馆杂志</b><i>, 网络首发</i>.
+
 * <b>基于深度集成学习的战国楚系简帛文字识别</b><br>
 陈超, 李赫孜, 杨泽坤\*.
 <b>数字人文研究</b><i>, 5(02): 45-58</i>.
