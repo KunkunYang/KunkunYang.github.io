@@ -17,7 +17,7 @@ redirect_from:
 * <b>I am currently accepting Master’s students in the research area of Digital Humanities, Information Systems, and E-Governance. I also welcome interested undergraduates to participate in my research projects.</b>
 
 # Recent News
-* March, 2026. Two long paper, one short paper, and one poster accepted by DH 2026.
+* March, 2026. Two long paper, one short paper, and one poster accepted by Digital Humanities 2026 (DH 2026).
 * August, 2025. I served on the organizing team of the International Symposium on Cultural Diversity and Digital Humanities 2025.
 * November, 2024. I attended 9th BRICS Young Scientist Forum and gave a talk.
 * November, 2024. I attended CDH 2024 and presented one paper.
