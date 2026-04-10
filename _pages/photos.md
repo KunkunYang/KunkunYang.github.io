@@ -9,7 +9,7 @@ author_profile: true
 <a href="https://postimg.cc/p5jyvDNW" target="_blank"><img src="https://i.postimg.cc/p5jyvDNW/NLPA-2025-Fall.jpg" alt="NLPA-2025-Fall"></a>
 </p>
 <p align="center">
-Natural Language Processing and Application, Fall 205
+Natural Language Processing and Application, Fall 2025
 </p>
 
 
