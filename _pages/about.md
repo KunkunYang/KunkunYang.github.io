@@ -28,7 +28,6 @@ redirect_from:
 * July, 2023. I attended Digital Humanities 2023 (DH 2023) and presented one paper. Here is our poster [[Poster]](https://zekunyang.com/files/Poster_DH2023.pdf).
 * June, 2023. I attended Public Management Research Conference 2023 (PMRC 2023) and presented one paper.
 * March, 2023. I served as the Event Co-Chair of the Chinese Track of iConference 2023.
-* November, 2022. I served on the organizing team of the 2022 China Digital Humanities Annual Conference (CDH 2022).
 
 <p align="center">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=52adc8&w=400&t=tt&d=5GXBASL3V3CS_T-k1r1xDZy3F0IEZghHuhZYHs2vQfg&co=ffffff&cmo=0024b6&cmn=0024b6&ct=494e52'></script>
