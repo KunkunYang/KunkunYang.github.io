@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * <b>Joint analysis of citizens’ commuting behaviors: a multi-task deep learning approach</b><br>
-Liya Yang, Zekun Yang.
+Liya Yang, Zekun Yang\*.
 <b>Knowledge and Information Systems</b><i>, 2026, 68, 156</i>.
 [[Paper]](https://doi.org/10.1007/s10115-026-02757-7)
 
