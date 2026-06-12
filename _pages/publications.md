@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* <b>新疆维吾尔木卡姆非物质文化遗产多模态档案资源构建</b><br>
+杨泽坤, 凯丽麦, 马玄霖\*.
+<b>档案学通讯</b><i>, 2026, (3): 78-86</i>.
+
 * <b>Joint analysis of citizens’ commuting behaviors: a multi-task deep learning approach</b><br>
 Liya Yang, Zekun Yang\*.
 <b>Knowledge and Information Systems</b><i>, 2026, 68, 156</i>.
