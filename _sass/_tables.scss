@@ -8,7 +8,7 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  border: 0px solid $border-color;
+  border: 0px solid $body-color;
 
   & + table {
     margin-top: 1em;
@@ -16,21 +16,21 @@ table {
 }
 
 thead {
-  background-color: $border-color;
-  border-bottom: 0px solid $border-color; 
+  background-color: $body-color;
+  border-bottom: 0px solid $body-color; 
 }
 
 th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 0px solid $border-color;
+  border-right: 0px solid $body-color;
 }
 
 td {
   padding: 0.5em;
-  border-bottom: 0px solid $border-color;
-  border-right: 0px solid $border-color;
+  border-bottom: 0px solid $body-color;
+  border-right: 0px solid $body-color;
 }
 
 tr, td, th {
