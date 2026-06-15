@@ -104,23 +104,24 @@ author_profile: true
 </table>
 
 
-
-
-<p align="center">
-<a href="https://postimg.cc/18HBYCPd" target="_blank"><img src="https://i.postimg.cc/18HBYCPd/NLPA-2023-Fall.jpg" alt="NLPA-2023-Fall"/></a>
-</p>
-<p align="center">
-Natural Language Processing and Application, Fall 2023
-</p>
-
-
-
-<p align="center">
-<a href="https://postimg.cc/Xp5DxkrM" target="_blank"><img src="https://i.postimg.cc/Xp5DxkrM/IDC-2023-Fall.jpg" alt="IDC-2023-Fall"/></a>
-</p>
-<p align="center">
-Introduction to Digital Culture, Fall 2023
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://postimg.cc/18HBYCPd" target="_blank">
+        <img src=img src="https://i.postimg.cc/18HBYCPd/NLPA-2023-Fall.jpg" alt="NLPA-2023-Fall" width="300">
+      </a>
+      <br>
+      <span>Natural Language Processing and Application, Fall 2023</span>
+    </td>
+    <td align="center">
+      <a href="https://postimg.cc/Xp5DxkrM" target="_blank">
+        <img src="https://i.postimg.cc/Xp5DxkrM/IDC-2023-Fall.jpg" alt="IDC-2023-Fall" width="300">
+      </a>
+      <br>
+      <span>Introduction to Digital Culture, Fall 2023</span>
+    </td>
+  </tr>
+</table>
 
 
 
