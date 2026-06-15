@@ -8,8 +8,8 @@ author_profile: true
 <table align="center">
   <tr>
     <td align="center">
-        <img src="https://i.postimg.cc/wjFvRJgz/Lingguo-Meng.png" alt="Lingguo-Meng" width="300">
-      </a>
+        <a href="https://postimg.cc/yDgBwDDp" target="_blank">
+          <img src="https://i.postimg.cc/yDgBwDDp/Lingguo-Meng.png" alt="Lingguo-Meng" width="200"></a>
       <br>
       <span>Lingguo Meng 孟令国</span>
       <br>
