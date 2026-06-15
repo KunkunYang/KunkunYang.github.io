@@ -16,6 +16,7 @@ redirect_from:
 * I hold a Ph.D. in Information Systems from the [Department of Information Systems, City University of Hong Kong](https://www.cb.cityu.edu.hk/is/). My Ph.D. supervisors are [Prof. Juan Feng](https://www.sem.tsinghua.edu.cn/info/1183/32092.htm) and [Prof. David Jingjun Xu](https://www.cb.cityu.edu.hk/staff/davidxu/). I also hold an MSc in Machine Learning (with distinction) from University College London, UK and a BSc in Applied and Computational Mathematics from Jacobs University Bremen, Germany.
 * <b>I am currently accepting Master’s students in the research area of Digital Humanities, Information Systems, and E-Governance. I also welcome interested undergraduates to participate in my research projects.</b>
 
+
 # Recent News
 * April, 2026. One paper accepted by the Annual International conference on digital humanities for East Asia Classics 2026 (DHEAC 2026).
 * March, 2026. Two long paper, one short paper, and one poster accepted by Digital Humanities 2026 (DH 2026).
