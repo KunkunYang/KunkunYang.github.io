@@ -4,7 +4,7 @@ title: "Students"
 permalink: /students/
 author_profile: true
 ---
-## Ph.D.
+## Ph.D. Students
 
 <table align="center">
   <tr>
@@ -22,7 +22,7 @@ author_profile: true
 
 
 
-## Master
+## Master Students
 
 <table align="center">
   <tr>
@@ -35,7 +35,12 @@ author_profile: true
       <br>
       <span></span>
     </td>
-    <td align="center">
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+      <td align="center">
         <img src="https://i.postimg.cc/21bmP11H/Zhengyao-Shan.jpg" alt="Zhengyao-Shan" width="200">
       <br>
       <span>Zhengyao Shan 单政瑶</span>
@@ -44,11 +49,6 @@ author_profile: true
       <br>
       <span>MlisDA in progress, Employee at Shouqi Group</span>
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
     <td align="center">
   <img src="https://i.postimg.cc/zyb59yyk/Xuanlin-Ma.jpg" alt="Xuanlin-Ma" width="200">
       <br>
@@ -58,19 +58,19 @@ author_profile: true
       <br>
       <span>Digital Humanities, Distant Reading</span>
     </td>
+  </tr>
+</table>
+
+## Alumni
+<table align="center">
     <td align="center">
         <img src="https://i.postimg.cc/WdFjQddK/Limai-Kai.png" alt="Limai-Kai" width="200">
       <br>
       <span>Limai Kai 凯丽麦</span>
       <br>
-      <span>(2022-2024)</span>
+      <span>(2022-2024, Master)</span>
       <br>
       <span>Intangible Cultural Heritage, Xinjiang Uyghur Muqam</span>
     </td>
-  </tr>
 </table>
-
-
-
-
 
