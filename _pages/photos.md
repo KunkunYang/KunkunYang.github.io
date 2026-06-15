@@ -5,23 +5,24 @@ permalink: /photos/
 author_profile: true
 ---
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; text-align: center;">
-  
-  <div>
-    <a href="https://postimg.cc/p5jyvDNW" target="_blank">
-      <img src="https://i.postimg.cc/p5jyvDNW/NLPA-2025-Fall.jpg" alt="NLPA-2025-Fall" style="max-width: 100%; height: auto;">
-    </a>
-    <p>Natural Language Processing and Application, Fall 2025</p>
-  </div>
-
-  <div>
-    <a href="https://postimg.cc/hQmhn9F4" target="_blank">
-      <img src="https://i.postimg.cc/hQmhn9F4/IDC-2025-Fall.jpg" alt="IDC-2025-Fall" style="max-width: 100%; height: auto;">
-    </a>
-    <p>Introduction to Digital Culture, Fall 2025</p>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://postimg.cc/p5jyvDNW" target="_blank">
+        <img src="https://i.postimg.cc/p5jyvDNW/NLPA-2025-Fall.jpg" alt="NLPA-2025-Fall" width="300">
+      </a>
+      <br>
+      <span>Natural Language Processing and Application, Fall 2025</span>
+    </td>
+    <td align="center">
+      <a href="https://postimg.cc/hQmhn9F4" target="_blank">
+        <img src="https://i.postimg.cc/hQmhn9F4/IDC-2025-Fall.jpg" alt="IDC-2025-Fall" width="300">
+      </a>
+      <br>
+      <span>Introduction to Digital Culture, Fall 2025</span>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 <a href='https://postimg.cc/4Y88GbXv' target='_blank'><img src='https://i.postimg.cc/4Y88GbXv/SNADH-2025-Spring.jpg' alt='SNADH-2025-Spring'/></a>
