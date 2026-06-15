@@ -9,7 +9,7 @@ author_profile: true
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.postimg.cc/yDgBwDDp/Lingguo-Meng.png" alt="Lingguo-Meng" width="300">
+      <img src="https://i.postimg.cc/yDgBwDDp/Lingguo-Meng.png" alt="Lingguo-Meng" width="200">
       <br>
       <span>Lingguo Meng 孟令国</span>
       <br>
@@ -27,7 +27,7 @@ author_profile: true
 <table align="center">
   <tr>
     <td align="center">
-  <img src='https://i.postimg.cc/kR6TvRMt/bio-photo.jpg' border='0' alt='bio-photo' width="300">
+  <img src='https://i.postimg.cc/kR6TvRMt/bio-photo.jpg' border='0' alt='bio-photo' width="200">
       <br>
       <span>Chao Chen 陈超</span>
       <br>
@@ -41,7 +41,7 @@ author_profile: true
 <table align="center">
   <tr>
       <td align="center">
-        <img src="https://i.postimg.cc/21bmP11H/Zhengyao-Shan.jpg" alt="Zhengyao-Shan" width="300">
+        <img src="https://i.postimg.cc/21bmP11H/Zhengyao-Shan.jpg" alt="Zhengyao-Shan" width="200">
       <br>
       <span>Zhengyao Shan 单政瑶</span>
       <br>
@@ -55,7 +55,7 @@ author_profile: true
 <table align="center">
   <tr>
     <td align="center">
-  <img src="https://i.postimg.cc/zyb59yyk/Xuanlin-Ma.jpg" alt="Xuanlin-Ma" width="300">
+  <img src="https://i.postimg.cc/zyb59yyk/Xuanlin-Ma.jpg" alt="Xuanlin-Ma" width="200">
       <br>
       <span>Xuanlin Ma 马玄霖</span>
       <br>
@@ -69,7 +69,7 @@ author_profile: true
 ## Alumni
 <table align="center">
     <td align="center">
-        <img src="https://i.postimg.cc/WdFjQddK/Limai-Kai.png" alt="Limai-Kai" width="300">
+        <img src="https://i.postimg.cc/WdFjQddK/Limai-Kai.png" alt="Limai-Kai" width="200">
       <br>
       <span>Limai Kai 凯丽麦</span>
       <br>
