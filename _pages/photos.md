@@ -35,7 +35,7 @@ author_profile: true
     </td>
     <td align="center">
       <a href='https://postimg.cc/jLrMb7rh' target="_blank">
-        <img img src='https://i.postimg.cc/jLrMb7rh/NLPA-2024-Fall.jpg' alt='NLPA-2024-Fall' width="300">
+        <img src='https://i.postimg.cc/jLrMb7rh/NLPA-2024-Fall.jpg' alt='NLPA-2024-Fall' width="300">
       </a>
       <br>
       <span>Introduction to Digital Culture, Fall 2025</span>
@@ -44,22 +44,27 @@ author_profile: true
 </table>
 
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href='https://postimg.cc/2VSvLvJZ' target="_blank">
+        <img src='https://i.postimg.cc/2VSvLvJZ/IDC-2024-Fall.jpg' alt='IDC-2024-Fall' width="300">
+      </a>
+      <br>
+      <span>Introduction to Digital Culture, Fall 2024</span>
+    </td>
+    <td align="center">
+      <a href='https://postimg.cc/23wh5THY' target="_blank">
+        <img src='https://i.postimg.cc/23wh5THY/DHSNA-2024-Fall.jpg' alt='DHSNA-2024-Fall' width="300">
+      </a>
+      <br>
+      <span>Digital Humanities and Social Network Analysis, Fall 2024</span>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<a href='https://postimg.cc/2VSvLvJZ' target='_blank'><img src='https://i.postimg.cc/2VSvLvJZ/IDC-2024-Fall.jpg' alt='IDC-2024-Fall'/></a>
-</p>
-<p align="center">
-Introduction to Digital Culture, Fall 2024
-</p>
 
 
-
-<p align="center">
-<a href='https://postimg.cc/23wh5THY' target='_blank'><img src='https://i.postimg.cc/23wh5THY/DHSNA-2024-Fall.jpg' alt='DHSNA-2024-Fall'/></a>
-</p>
-<p align="center">
-Digital Humanities and Social Network Analysis, Fall 2024
-</p>
 
 
 
