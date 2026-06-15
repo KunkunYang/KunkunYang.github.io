@@ -38,7 +38,7 @@ author_profile: true
         <img src='https://i.postimg.cc/jLrMb7rh/NLPA-2024-Fall.jpg' alt='NLPA-2024-Fall' width="300">
       </a>
       <br>
-      <span>Introduction to Digital Culture, Fall 2025</span>
+      <span>Natural Language Processing and Application, Fall 2024</span>
     </td>
   </tr>
 </table>
