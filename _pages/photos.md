@@ -108,7 +108,7 @@ author_profile: true
   <tr>
     <td align="center">
       <a href="https://postimg.cc/18HBYCPd" target="_blank">
-        <img src=img src="https://i.postimg.cc/18HBYCPd/NLPA-2023-Fall.jpg" alt="NLPA-2023-Fall" width="300">
+        <img src="https://i.postimg.cc/18HBYCPd/NLPA-2023-Fall.jpg" alt="NLPA-2023-Fall" width="300">
       </a>
       <br>
       <span>Natural Language Processing and Application, Fall 2023</span>
