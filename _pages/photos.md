@@ -27,7 +27,7 @@ author_profile: true
 <table align="center">
   <tr>
     <td align="center">
-      <a href='https://i.postimg.cc/4Y88GbXv' target="_blank">
+      <a href='https://postimg.cc/4Y88GbXv' target="_blank">
         <img src='https://i.postimg.cc/4Y88GbXv/SNADH-2025-Spring.jpg' alt='SNADH-2025-Spring' width="300">
       </a>
       <br>
