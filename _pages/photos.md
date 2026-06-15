@@ -7,7 +7,7 @@ author_profile: true
 
 <div style='text-align: cneter>
   <div>
-    <p align="center">
+    <p>
     <a href="https://postimg.cc/p5jyvDNW" target="_blank"><img src="https://i.postimg.cc/p5jyvDNW/NLPA-2025-Fall.jpg" alt="NLPA-2025-Fall"></a>
     </p>
     <p align="center">
@@ -17,7 +17,7 @@ author_profile: true
     
     
   <div>
-    <p align="center">
+    <p>
     <a href="https://postimg.cc/hQmhn9F4" target="_blank"><img src="https://i.postimg.cc/hQmhn9F4/IDC-2025-Fall.jpg" alt="IDC-2025-Fall"></a>
     </p>
     <p align="center">
