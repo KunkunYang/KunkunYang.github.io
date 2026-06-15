@@ -84,22 +84,25 @@ author_profile: true
 </table>
 
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://postimg.cc/3k7TrVhF" target="_blank">
+        <img src="https://i.postimg.cc/3k7TrVhF/Master-Class-6-1.jpg" alt="Master-Class-6-1" width="300">
+      </a>
+      <br>
+      <span>Master Class 3, Class of 2026</span>
+    </td>
+    <td align="center">
+      <a href="https://postimg.cc/nXpttDDW" target="_blank">
+        <img src="https://i.postimg.cc/nXpttDDW/CA-2024-Spring.jpg" alt="CA-2024-Spring" width="300">
+      </a>
+      <br>
+      <span>Cultural Analytics, Spring 2024</span>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<a href="https://postimg.cc/3k7TrVhF" target="_blank"><img src="https://i.postimg.cc/3k7TrVhF/Master-Class-6-1.jpg" alt="Master-Class-6-1"/></a>
-</p>
-<p align="center">
-Master Class 3, Class of 2026
-</p>
-
-
-
-<p align="center">
-<a href="https://postimg.cc/nXpttDDW" target="_blank"><img src="https://i.postimg.cc/nXpttDDW/CA-2024-Spring.jpg" alt="CA-2024-Spring"/></a>
-</p>
-<p align="center">
-Cultural Analytics, Spring 2024
-</p>
 
 
 
