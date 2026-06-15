@@ -162,24 +162,27 @@ author_profile: true
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://postimg.cc/WFpXvQ8z" target="_blank">
+        <img src="https://i.postimg.cc/WFpXvQ8z/NLPA-2023-Spring-2.jpg" alt="NLPA-2023-Spring-2" width="300">
+      </a>
+      <br>
+      <span>Natural Language Processing and Application, Spring 2023</span>
+    </td>
+    <td align="center">
+      <a href="https://postimg.cc/zbdpX02j" target="_blank">
+        <img src="https://i.postimg.cc/zbdpX02j/SNADH-2023-Spring.jpg" alt="SNADH-2023-Spring" width="300">
+      </a>
+      <br>
+      <span>Social Network Analysis and Digital Humanities, Spring 2023</span>
+    </td>
+  </tr>
+</table>
 
 
 
-<p align="center">
-<a href="https://postimg.cc/WFpXvQ8z" target="_blank"><img src="https://i.postimg.cc/WFpXvQ8z/NLPA-2023-Spring-2.jpg" alt="NLPA-2023-Spring-2"/></a>
-</p>
-<p align="center">
-Natural Language Processing and Application, Spring 2023
-</p>
-
-
-
-<p align="center">
-<a href="https://postimg.cc/zbdpX02j" target="_blank"><img src="https://i.postimg.cc/zbdpX02j/SNADH-2023-Spring.jpg" alt="SNADH-2023-Spring"/></a>
-</p>
-<p align="center">
-Social Network Analysis and Digital Humanities, Spring 2023
-</p>
 
 
 
