@@ -5,6 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 ## Ph.D.
+
 <table align="center">
   <tr>
     <td align="center">
@@ -16,7 +17,7 @@ author_profile: true
       <br>
       <span>Digital Humanities Theory, Cultural Heritage, Digital Memory</span>
     </td>
-
+ </tr>
 </table>
 
 
@@ -46,11 +47,30 @@ author_profile: true
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center">
+  <img src="https://i.postimg.cc/zyb59yyk/Xuanlin-Ma.jpg" alt="Xuanlin-Ma" width="200">
+      <br>
+      <span>Xuanlin Ma 马玄霖</span>
+      <br>
+      <span>(2024-)</span>
+      <br>
+      <span>Digital Humanities, Distant Reading</span>
+    </td>
+    <td align="center">
+        <img src="https://i.postimg.cc/WdFjQddK/Limai-Kai.png" alt="Limai-Kai" width="200">
+      <br>
+      <span>Limai Kai 凯丽麦</span>
+      <br>
+      <span>(2022-2024)</span>
+      <br>
+      <span>Intangible Cultural Heritage, Xinjiang Uyghur Muqam</span>
+    </td>
+  </tr>
+</table>
 
 
-
-Xuanlin Ma 马玄霖 (2024-)<br>
-Limai Kai 凯丽麦 (2022-2024)<br>
 
 
 
