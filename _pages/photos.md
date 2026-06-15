@@ -124,23 +124,24 @@ author_profile: true
 </table>
 
 
-
-<p align="center">
-<a href="https://postimg.cc/ZC6V6YQ4" target="_blank"><img src="https://i.postimg.cc/ZC6V6YQ4/DHSNA-2023-Fall.jpg" alt="DHSNA-2023-Fall"/></a>
-</p>
-<p align="center">
-Digital Humanities and Social Network Analysis, Fall 2023
-</p>
-
-
-
-<p align="center">
-<a href="https://postimg.cc/s1kTBGwT" target="_blank"><img src="https://i.postimg.cc/s1kTBGwT/AICCL-2023-Fall.jpg" alt="AICCL-2023-Fall"/></a>
-</p>
-<p align="center">
-Artificial Intelligence and Classical Chinese Literature, Fall 2023
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://postimg.cc/ZC6V6YQ4" target="_blank">
+        <img src="https://i.postimg.cc/ZC6V6YQ4/DHSNA-2023-Fall.jpg" alt="DHSNA-2023-Fall" width="300">
+      </a>
+      <br>
+      <span>Digital Humanities and Social Network Analysis, Fall 2023</span>
+    </td>
+    <td align="center">
+      <a href="https://postimg.cc/s1kTBGwT" target="_blank">
+        <img src="https://i.postimg.cc/s1kTBGwT/AICCL-2023-Fall.jpg" alt="AICCL-2023-Fall" width="300">
+      </a>
+      <br>
+      <span>Artificial Intelligence and Classical Chinese Literature, Fall 2023</span>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
