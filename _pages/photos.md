@@ -64,22 +64,27 @@ author_profile: true
 </table>
 
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://postimg.cc/GBgwQpyX" target="_blank">
+        <img src="https://i.postimg.cc/GBgwQpyX/AICCL-2024-Fall.jpg" alt="AICCL-2024-Fall" width="300">
+      </a>
+      <br>
+      <span>Artificial Intelligence and Classical Chinese Literature, Fall 2024</span>
+    </td>
+    <td align="center">
+      <a href="https://postimg.cc/680N8c5J" target="_blank">
+        <img src="https://i.postimg.cc/680N8c5J/Master-Class-6-2.jpg" alt="Master-Class-6-2" width="300">
+      </a>
+      <br>
+      <span>Master Class 3, Class of 2026</span>
+    </td>
+  </tr>
+</table>
 
 
 
-
-<p align="center">
-<a href="https://postimg.cc/GBgwQpyX" target="_blank"><img src="https://i.postimg.cc/GBgwQpyX/AICCL-2024-Fall.jpg" alt="AICCL-2024-Fall"/></a>
-</p>
-<p align="center">
-Artificial Intelligence and Classical Chinese Literature, Fall 2024
-</p>
-
-
-
-<p align="center">
-<a href="https://postimg.cc/680N8c5J" target="_blank"><img src="https://i.postimg.cc/680N8c5J/Master-Class-6-2.jpg" alt="Master-Class-6-2"/></a>
-</p>
 <p align="center">
 <a href="https://postimg.cc/3k7TrVhF" target="_blank"><img src="https://i.postimg.cc/3k7TrVhF/Master-Class-6-1.jpg" alt="Master-Class-6-1"/></a>
 </p>
