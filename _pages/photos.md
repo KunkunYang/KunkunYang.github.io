@@ -5,7 +5,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-<table align="center" border="none" border-collapse="collapse" cellspacing="0" cellpadding="10">
+<table align="center" border="1px solid white" border-collapse="collapse" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" border="1px solid white">
       <a href="https://postimg.cc/p5jyvDNW" target="_blank">
