@@ -4,7 +4,19 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-# Courses
+
+
+## Students
+* Master:
+Chao Chen (2025-)
+Xuanlin Ma (2024-)
+Limai Kai (2022-2024)
+
+* Ph.D.:
+Lingguo Meng (2024-)
+
+
+## Courses
 
 * Instructor of Graduate Course <b>Social Network Analysis</b><br>
 Fall Semester (Sep. - Dec.), 2024 - Now, *School of Information Resource Management, Renmin University of China*
