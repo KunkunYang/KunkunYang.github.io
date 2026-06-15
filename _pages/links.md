@@ -13,4 +13,4 @@ author_profile: true
 
 ## Student Projects
 * <p style="text-decoration:underline;"><a href="/ChinaPMmap.html">Career Trajectory Map of Prime Ministers in Ancient China Website中国宰相仕宦轨迹地图网站 Version 1.0</a></p>
-* <p style="text-decoration:underline;"><a href="[/ChinaPMmap.html](https://green-checklist-237419.framer.app/)">Silk Road Melodies: Xinjiang Muqam Website 丝路乐韵·新疆木卡姆网站 Version 1.0</a></p>
+* [Silk Road Melodies: Xinjiang Muqam Website 丝路乐韵·新疆木卡姆网站](https://green-checklist-237419.framer.app/)
