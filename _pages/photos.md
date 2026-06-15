@@ -4,28 +4,17 @@ title: "Class Photos at Renmin University of China"
 permalink: /photos/
 author_profile: true
 ---
-<style>
-table {
-border-collapse: collapse;
-width: 100%;
-}
-th, td {
-border: none; /* 去掉单元格边框 */
-padding: 8px;
-text-align: left;
-}
-</style>
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+<table align="center" border-collapse="collapse" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center">
+    <td align="center" border="none">
       <a href="https://postimg.cc/p5jyvDNW" target="_blank">
         <img src="https://i.postimg.cc/p5jyvDNW/NLPA-2025-Fall.jpg" alt="NLPA-2025-Fall" width="300">
       </a>
       <br>
       <span>Natural Language Processing and Application, Fall 2025</span>
     </td>
-    <td align="center">
+    <td align="center" border="none">
       <a href="https://postimg.cc/hQmhn9F4" target="_blank">
         <img src="https://i.postimg.cc/hQmhn9F4/IDC-2025-Fall.jpg" alt="IDC-2025-Fall" width="300">
       </a>
