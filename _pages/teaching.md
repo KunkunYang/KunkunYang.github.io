@@ -7,13 +7,13 @@ author_profile: true
 
 
 ## Students
-* Master:
-Chao Chen (2025-)
-Xuanlin Ma (2024-)
-Limai Kai (2022-2024)
+* <b>Master</b>:
+Chao Chen (2025-)<br>
+Xuanlin Ma (2024-)<br>
+Limai Kai (2022-2024)<br>
 
-* Ph.D.:
-Lingguo Meng (2024-)
+* <b>Ph.D.</b>:
+Lingguo Meng (2024-)<br>
 
 
 ## Courses
