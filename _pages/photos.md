@@ -24,21 +24,24 @@ author_profile: true
   </tr>
 </table>
 
-<p align="center">
-<a href='https://postimg.cc/4Y88GbXv' target='_blank'><img src='https://i.postimg.cc/4Y88GbXv/SNADH-2025-Spring.jpg' alt='SNADH-2025-Spring'/></a>
-</p>
-<p align="center">
-Social Network Analysis and Digital Humanities, Spring 2025
-</p>
-
-
-
-<p align="center">
-<a href='https://postimg.cc/jLrMb7rh' target='_blank'><img src='https://i.postimg.cc/jLrMb7rh/NLPA-2024-Fall.jpg' alt='NLPA-2024-Fall'/></a>
-</p>
-<p align="center">
-Natural Language Processing and Application, Fall 2024
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href='https://i.postimg.cc/4Y88GbXv' target="_blank">
+        <img src='https://i.postimg.cc/4Y88GbXv/SNADH-2025-Spring.jpg' alt='SNADH-2025-Spring' width="300">
+      </a>
+      <br>
+      <span>Social Network Analysis and Digital Humanities, Spring 2025</span>
+    </td>
+    <td align="center">
+      <a href='https://postimg.cc/jLrMb7rh' target="_blank">
+        <img img src='https://i.postimg.cc/jLrMb7rh/NLPA-2024-Fall.jpg' alt='NLPA-2024-Fall' width="300">
+      </a>
+      <br>
+      <span>Introduction to Digital Culture, Fall 2025</span>
+    </td>
+  </tr>
+</table>
 
 
 
