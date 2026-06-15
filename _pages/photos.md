@@ -183,23 +183,25 @@ author_profile: true
 
 
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://postimg.cc/R3BgP3nc" target="_blank">
+        <img src="https://i.postimg.cc/R3BgP3nc/SSEC-Class-6-2022.jpg" alt="SSEC-Class-6-2022" width="300">
+      </a>
+      <br>
+      <span>Social Science Experimental Class 6, Class of 2026</span>
+    </td>
+    <td align="center">
+      <a href="https://postimg.cc/060ch8ph" target="_blank">
+        <img src="https://i.postimg.cc/060ch8ph/SNA-2022-Spring.jpg" alt="SNA-2022-Spring" width="300">
+      </a>
+      <br>
+      <span>Social Network Analysis and Digital Humanities, Spring 2022</span>
+    </td>
+  </tr>
+</table>
 
 
-
-<p align="center">
-<a href="https://postimg.cc/R3BgP3nc" target="_blank"><img src="https://i.postimg.cc/R3BgP3nc/SSEC-Class-6-2022.jpg" alt="SSEC-Class-6-2022"/></a>
-</p>
-<p align="center">
-Social Science Experimental Class 6, Class of 2026
-</p>
-
-
-
-<p align="center">
-<a href="https://postimg.cc/060ch8ph" target="_blank"><img src="https://i.postimg.cc/060ch8ph/SNA-2022-Spring.jpg" alt="SNA-2022-Spring"/></a>
-</p>
-<p align="center">
-Social Network Analysis and Digital Humanities, Spring 2022
-</p>
 
 
