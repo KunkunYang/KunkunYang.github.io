@@ -4,6 +4,17 @@ title: "Class Photos at Renmin University of China"
 permalink: /photos/
 author_profile: true
 ---
+<style>
+table {
+border-collapse: collapse;
+width: 100%;
+}
+th, td {
+border: none; /* 去掉单元格边框 */
+padding: 8px;
+text-align: left;
+}
+</style>
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
