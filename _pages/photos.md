@@ -143,19 +143,28 @@ author_profile: true
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://postimg.cc/LgnDqLrM" target="_blank">
+        <img src="https://i.postimg.cc/LgnDqLrM/IDH-2023-Spring.jpg" alt="IDH-2023-Spring" width="300">
+      </a>
+      <br>
+      <span>Introduction to Digital Humanities, Spring 2023</span>
+    </td>
+    <td align="center">
+      <a href="https://postimg.cc/nMz0wfMw" target="_blank">
+        <img src="https://i.postimg.cc/nMz0wfMw/NLPA-2023-Spring-1.jpg" alt="NLPA-2023-Spring-1" width="300">
+      </a>
+      <br>
+      <span>Natural Language Processing and Application, Spring 2023</span>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<a href="https://postimg.cc/LgnDqLrM" target="_blank"><img src="https://i.postimg.cc/LgnDqLrM/IDH-2023-Spring.jpg" alt="IDH-2023-Spring"/></a>
-</p>
-<p align="center">
-Introduction to Digital Humanities, Spring 2023
-</p>
 
 
 
-<p align="center">
-<a href="https://postimg.cc/nMz0wfMw" target="_blank"><img src="https://i.postimg.cc/nMz0wfMw/NLPA-2023-Spring-1.jpg" alt="NLPA-2023-Spring-1"/></a>
-</p>
 <p align="center">
 <a href="https://postimg.cc/WFpXvQ8z" target="_blank"><img src="https://i.postimg.cc/WFpXvQ8z/NLPA-2023-Spring-2.jpg" alt="NLPA-2023-Spring-2"/></a>
 </p>
