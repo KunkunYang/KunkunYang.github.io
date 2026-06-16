@@ -61,7 +61,7 @@ author_profile: true
       <span>Introduction to Digital Culture, Fall 2024</span>
     </td>
     <td align="center">
-<a href="https://postimg.cc/5YsKbjMS" target="_blank"><img src="https://i.postimg.cc/5YsKbjMS/DHSNA-2024-Fall.jpg" alt="DHSNA-2024-Fall"> width="300">
+<a href="https://postimg.cc/5YsKbjMS" target="_blank"><img src="https://i.postimg.cc/5YsKbjMS/DHSNA-2024-Fall.jpg" alt="DHSNA-2024-Fall" width="300">
       </a>
       <br>
       <span>Digital Humanities and Social Network Analysis, Fall 2024</span>
