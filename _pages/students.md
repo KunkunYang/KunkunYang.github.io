@@ -27,13 +27,13 @@ author_profile: true
 <table align="center">
   <tr>
     <td align="center">
-  <img src='https://i.postimg.cc/kR6TvRMt/bio-photo.jpg' border='0' alt='bio-photo' width="200">
+  <img src='https://i.postimg.cc/47dpW0VR/Chao-Chen.jpg' border='0' alt='Chao-Chen' width="200">
       <br>
       <span>Chao Chen 陈超</span>
       <br>
       <span>(2025-)</span>
       <br>
-      <span></span>
+      <span>AI4Humanities, Ancient Chinese Characters</span>
     </td>
   </tr>
 </table>
