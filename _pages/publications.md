@@ -15,21 +15,21 @@ Liya Yang, Zekun Yang\*.
 
 * <b>真实的幻像：麦卡蒂数字人文理论研究</b><br>
 孟令国, 杨泽坤\*.
-<b>图书馆杂志</b><i>, 网络首发</i>.
+<b>图书馆杂志</b><i>, 2026, 网络首发</i>.
 
 * <b>基于深度集成学习的战国楚系简帛文字识别</b><br>
 陈超, 李赫孜, 杨泽坤\*.
-<b>数字人文研究</b><i>, 5(02): 45-58</i>.
+<b>数字人文研究</b><i>, 2026, 5(02): 45-58</i>.
 [[Paper]](http://dhr.ruc.edu.cn/CN/Y2025/V5/I2/45)
 
 * <b>数字人文背景下宰相仕宦轨迹地图库构建研究</b><br>
 钟蕾, 李贝贝, 张书影, 彭雨欣, 刘馨雨, 杨泽坤\*.
-<b>信息与管理研究</b><i>, 9(6): 60-69</i>.
+<b>信息与管理研究</b><i>, 2025, 9(6): 60-69</i>.
 [[Paper]](https://jim.library.sh.cn/CN/Y2024/V9/I6/60)
 
 * <b>基于文本挖掘的维吾尔“十二木卡姆”唱词研究</b><br>
 凯丽麦, 李贝贝, 张书影, 钟蕾, 杨泽坤\*.
-<b>数字人文研究</b><i>, 4(3): 66-87</i>.
+<b>数字人文研究</b><i>, 2025, 4(3): 66-87</i>.
 [[Paper]](http://dhr.ruc.edu.cn/CN/Y2024/V4/I3/66)
 
 * <b>A Semantic Framework for Uyghur Muqam</b><br>
@@ -53,7 +53,7 @@ Zekun Yang, Liang Ma.
 
 * <b>“全景与远景：数字人文与国家文化数字化战略”——2022年中国数字人文年会综述</b><br>
 杨泽坤, 李少建, 凯丽麦.
-<b>数字人文研究</b><i>, 3(01): 3-17</i>.
+<b>数字人文研究</b><i>, 2023, 3(01): 3-17</i>.
 [[Paper]](http://dhr.ruc.edu.cn/CN/abstract/abstract75.shtml)
 
 * <b>Interpretable video tag recommendation with multimedia deep learning framework</b><br>
