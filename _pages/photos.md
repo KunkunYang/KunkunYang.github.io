@@ -7,6 +7,12 @@ author_profile: true
 
 <table align="center">
   <tr>
+        <td align="center">
+<a href='https://postimg.cc/JD0LYBLR' target='_blank'><img src='https://i.postimg.cc/JD0LYBLR/CA-2026-Spring.jpg' border='0' alt='CA-2026-Spring' width="300">
+      </a>
+      <br>
+      <span>Cultural Analytics, Spring 2026</span>
+    </td>
     <td align="center">
 <a href="https://postimg.cc/VSrkj0KR" target="_blank"><img src="https://i.postimg.cc/VSrkj0KR/SNADH-2026-Spring.jpg" alt="SNADH-2026-Spring" width="300">
       </a>
