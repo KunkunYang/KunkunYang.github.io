@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zekun Yang"
 title_separator          : "-"
 name                     : &name "Zekun Yang"
-description              : &description "Assistant Professor at Renmin University of China."
+description              : &description "Associate Professor at Renmin University of China."
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KunkunYang/KunkunYang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zekun Yang 杨泽坤"
   avatar           : "https://i.postimg.cc/4xwdHtZM/Zekun-Yang2026.jpg?raw=true"
-  bio              : "Assistant Professor at Renmin University of China"
+  bio              : "Associate Professor at Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           :
