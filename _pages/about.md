@@ -20,7 +20,7 @@ redirect_from:
 # Recent News
 * August, 2026. I was promoted to Associate Professor.
 * July, 2026. I presented two long paper, one short paper, and one poster at Digital Humanities 2026 (DH 2026).
-* July, 2026. I presented one paper at the Annual International Conference on Digital Humanities for East Asia Classics 2026 (DHEAC 2026).
+* July, 2026. I presented the paper "Digitizing the Painting Gallery of the Summer Palace Long Corridor: An Image Narrative Perspective" at the Annual International Conference on Digital Humanities for East Asia Classics 2026 (DHEAC 2026) and won the Best Paper Award.
 * August, 2025. I served on the organizing team of the International Symposium on Cultural Diversity and Digital Humanities 2025.
 * November, 2024. I attended the 9th BRICS Young Scientist Forum and gave a talk.
 * November, 2024. I attended 2024 China Digital Humanities Annual Conference (CDH 2024) and presented one paper.
