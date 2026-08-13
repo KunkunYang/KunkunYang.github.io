@@ -7,22 +7,22 @@ author_profile: true
 * <b>Remapping the Territories and the Deterritorialization of Roberto Bolaño</b><br>
 Xuanlin Ma, Yanfen Huang, Zekun Yang.
 <i>Digital Humanities 2026.</i> <b>DH 2026</b>.
-[[Paper]]([https://zenodo.org/record/8107854](https://zenodo.org/records/21495909))
+[[Paper]](https://zenodo.org/records/21495909)
 
 * <b>Towards Small Data Interpretation: Digital Thick Description of Cultural Heritage</b><br>
 Lingguo Meng, Zekun Yang.
 <i>Digital Humanities 2026.</i> <b>DH 2026</b>.
-[[Paper]]([https://zenodo.org/record/8107854](https://zenodo.org/records/21495909))
+[[Paper]](https://zenodo.org/records/21495909)
 
 * <b>A Frequency-Aware Multi-Scale Transformer for Oracle Bone Inscription Semantic Completion</b><br>
 Chao Chen, Hezi Li, Zekun Yang.
 <i>Digital Humanities 2026.</i> <b>DH 2026</b>.
-[[Paper]]([https://zenodo.org/record/8107854](https://zenodo.org/records/21495909))
+[[Paper]](https://zenodo.org/records/21495909)
 
 * <b>Deciphering Bureaucratic Complexity in Ancient China: A Knowledge Graph of the Song Dynasty Offcial System</b><br>
 Jingyi He, Lei Zhong, Beibei Li, Chang Liu, Xinyu Liu, Yuxin Peng, Yanfen Huang, Zekun Yang.
 <i>Digital Humanities 2026.</i> <b>DH 2026</b>.
-[[Paper]]([https://zenodo.org/record/8107854](https://zenodo.org/records/21495909))
+[[Paper]](https://zenodo.org/records/21495909)
 
 * <b>西班牙语地区数字人文研究演进（1998—2023）——兼与中国的对比考察</b><br>
 马玄霖, 杨泽坤\*.
