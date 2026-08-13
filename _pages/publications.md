@@ -27,6 +27,7 @@ Jingyi He, Lei Zhong, Beibei Li, Chang Liu, Xinyu Liu, Yuxin Peng, Yanfen Huang,
 * <b>西班牙语地区数字人文研究演进（1998—2023）——兼与中国的对比考察</b><br>
 马玄霖, 杨泽坤\*.
 <b>数字人文研究</b><i>, 2026, 6(2): 99-115</i>.
+[[Paper]](http://dhr.ruc.edu.cn/CN/Y2026/V6/I2/99)
 
 * <b>新疆维吾尔木卡姆非物质文化遗产多模态档案资源构建</b><br>
 杨泽坤, 凯丽麦, 马玄霖\*.
