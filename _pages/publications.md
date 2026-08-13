@@ -19,7 +19,7 @@ Chao Chen, Hezi Li, Zekun Yang.
 <i>Digital Humanities 2026.</i> <b>DH 2026</b>.
 [[Paper]](https://zenodo.org/records/21495909)
 
-* <b>Deciphering Bureaucratic Complexity in Ancient China: A Knowledge Graph of the Song Dynasty Offcial System</b><br>
+* <b>Deciphering Bureaucratic Complexity in Ancient China: A Knowledge Graph of the Song Dynasty Official System</b><br>
 Jingyi He, Lei Zhong, Beibei Li, Chang Liu, Xinyu Liu, Yuxin Peng, Yanfen Huang, Zekun Yang.
 <i>Digital Humanities 2026.</i> <b>DH 2026</b>.
 [[Paper]](https://zenodo.org/records/21495909)
