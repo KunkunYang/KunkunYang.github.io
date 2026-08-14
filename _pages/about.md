@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-<a href="https://postimg.cc/qtM80wBS" target="_blank"><img src="https://i.postimg.cc/6QCzrbkW/Master-Class-3-2.jpg" alt="Master-Class-3-2"></a>
+<a href='https://postimg.cc/2bsCVz3F' target='_blank'><img src='https://i.postimg.cc/hvjvZvBw/DH-2026.jpg' border='0' alt='DH-2026'></a>
 </p>
 
 * I am an Associate Professor in the Department of Digital Humanities, [School of Information Resource Management, Renmin University of China](https://irm.ruc.edu.cn/). My main research interests are Natural Language Processing, Digital Humanities, Information Systems, E-Governance, and Machine Learning.
